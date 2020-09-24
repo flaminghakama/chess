@@ -1,0 +1,80 @@
+I'm not quite sure I understand what to do with the studies on lichess.  I can make comments about the position, and discuss candidate moves, which I did for https://lichess.org/study/Pi8NAxga 
+
+But when I make a move on the board, there is no feedback, no counter move.  Am I supposed to do more than just make comments on the position?
+
+
+In addition, on https://lichess.org/study/xSt84CMR
+
+Besdies the confusion of whether this is just analysis of a position or if I am supposed to play moves, I don't even understand whether I am white or black, which direction the pawns are going.
+
+
+
+
+
+The first thing I notice is that the black knight on d7 is pinned.
+
+My bishop on g6 is under attack.  If I sacrifice my rook for the e5 pawn, now the other black knight is now also pinned so it cannot take the c6 bishop.  If black recaptures with fxe, then the black knight is still pinned, but to the queen by the g5 bishop, which is now no longer under attack.  But, it is not clear to me whether this position is good, I don't see a continuation, e6 is still defended by the bishop.
+
+Alternately, if I sacrifice the f3 knight for the e5 pawn, it seems like there may better options here.  It would be a mistake for black to take the c6 bishop, since then black can recapture with the knight, placing the king in check, losing the queen.   So, instead black could retake fxe.  But, it is not clear to me whether this position is good, I don't see a continuation, e6 is still defended by the bishop, and the e7 knight is not pinned, so can capture my c6 bishop.
+
+Another option would be to sacrifice my g5 bishop for f6, then another sacrifice of knight for the e5 pawn, which black takes with the g7 bishop, and white recaptures with the rook.  So, it woudld be a sacrifice of a bishop and knight for a bishop and 2 pawns, and both black knights are pinned.  This seems like the best option.  Could continue moving the queen up to d4, attacking the h8 rook and allowing the a1 rook to be able to double up on the d file, or double pin the e7 knight by moving the rook to e1.
+
+
+
+
+
+
+Test One
+
+Test 1: Puzzle 1
+(Liublinsky v. Botvinnik, Moscow 1943)
+
+To support black pawn on c5 and stop trade of rooks, black moves Bd6
+
+
+Test 1: Puzzle 2
+(Hodgson v. Speelman, British championship 1984)
+
+White hopes to accentuate weakness of backward e6 pawn by maintaining absolute control of e5.  How to improve white position?
+
+The statement of this problem is confusing, since white has 3 defenders of e5 and black has only 2 attackers, so why does white need more control of e5?  And what does that have to do with attacking the e6 pawn?
+
+In any case, most of the moves I see are trades, which does not necessarily help white, since white is down a pawn.
+
+We can theoretically move the knight from e5, and it becomes a defender of e5.  But there are no moves for this knight that are not trades.  
+
+Trading for the knight on c6 would eliminate one of the defenders of c6, so that is probably the solution they are looking for here.  Also, this allows the queen to attack c6.
+
+
+
+
+
+
+
+Puzzles I don't understand
+
+https://www.chess.com/puzzles/problem/47378/practice
+
+https://lichess.org/training/61076
+
+https://lichess.org/training/61091
+
+https://lichess.org/training/61110
+
+https://chesstempo.com/chess-tactics/142531
+
+https://chesstempo.com/chess-tactics/44053
+
+https://chesstempo.com/chess-tactics/40102
+
+https://lichess.org/training/61180
+
+https://lichess.org/training/61117
+
+https://www.chess.com/puzzles/problem/53321/practice
+
+https://www.chess.com/puzzles/problem/696478
+
+https://www.chess.com/puzzles/problem/65946
+
+

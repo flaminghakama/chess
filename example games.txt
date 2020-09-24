@@ -1,0 +1,42 @@
+This game has a pretty standard setup for my black position.  I like a closed center to blockade their light Bishop, and move both Knights to the King side and try to attack there.  This usually involves castling a bit late, and in this game I was ready to do it on move 14 but then my opponent forked my rook and it all went downhill from there.
+
+There are a number of patterns in the first few moves I recognize where I diverge from this pattern.  But in this case I'm not sure at what point I should have realized things were going so wrong.
+
+https://www.chess.com/analysis/game/daily/277560836
+
+
+
+Here is another black position where my first mistake according to the computer is that second Knight move.  The computer suggests 5. ... c5, making this a Sicilian.  I am a bit familiar with Sicilian for black when I see 1. Nf3 d6, 2. e4, I've learned that my typical 2. ... e6 is worse than c5, so I play c5 and play Sicilian.
+
+But in this case, the computer doesn't suggest c5 until move 5, so I'm not sure what I should have been looking for to suggest that move.  Especially since c5, after I've already pushed d6, worries me since it seems to give my opponent the b5 square for free, with my King still on d1 seems dangerous.
+
+Lots of terrible rook moves in this one, too.  Not sure what I was thinking, except it is a good example of what happens when I don't have a good plan beyond the opening.
+
+https://www.chess.com/analysis/game/daily/277526776
+
+
+
+For my white position, I play a Queen's pawn opening, Zuckertort Variation, but first trying to get my dark Bishop on g5, before proceeding with e3, c4 and Nc3.   Often there are a few moves in between, as the bishop gets kicked back.  
+
+So, in this game by move 16 we have an even position, with with no mistakes yet.  This is a good example of where I don't really have a plan at this point in the middlegame.
+
+Common wisdom says that when castling happens on opposite sides, you should attack quickly on Queen side.  But the computer suggestions from this point of my first mistake on move 17, the suggested moves are in the center and King side.
+
+I try to sacrifice a Knight in order to get the King vulnerable, but I am not fast enough.  
+
+https://www.chess.com/analysis/game/live/5394268948
+
+
+
+The one gambit I do often as white is to trade the Knight for 2 pawns on g5, when they respond to my Bishop on g5 with f6 then g5.
+
+It is fun because after e3 and Qh5 (or Bf2, Bh5), their King is on the run and it is an exciting, double-edged game where either I get a quick checkmate, or they survive and end up winning due to material advantage, or due to a blunder of mine since it can get chaotic.
+
+I'm not sure if I should continue to try this gambit.  I know that in some older games, this was often the suggested move.  It certainly does work some of the time.  But here it is listed as a mistake.
+
+Usually their key move to thwart this attack is Nf6, but here they defend using their light square Bishop, and are able to castle long.
+
+
+https://www.chess.com/analysis/game/daily/276686192
+
+

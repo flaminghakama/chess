@@ -1,0 +1,25 @@
+
+For finding endgames, table base at http://www.k4it.de/?topic=egtb&lang=en
+
+
+
+Test 1: Puzzle 3
+Shirov v. Miladinovic, Belgrade 1995
+
+Black has scattered pawns but these are accompanied by the bishop pair.  Time to clamp down?  
+
+White to play.
+
+
+Black undefended pieces include a6 & Qc7.
+Weak squares include most of the black squares
+
+Could trade pawns Qxa6, Bxb2.
+Defensive b3.
+
+An interesting tactic move Nc5 to attack Bd7, a6 & e6.
+If the bishop moves, Nxa6 forks queen and rook.
+So, black will want to trade the bishop while defending a6.  Probably with Ra8 since using the queen on either a7 or b6 would put it in the line of the white bishop, which seems risky.  But if this is exposed by Nxd7, the queen can recapture from a7, but not b6. 
+
+
+White has undefended Na4 and Re4.
