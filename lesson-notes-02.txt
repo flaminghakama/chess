@@ -23,3 +23,24 @@ So, black will want to trade the bishop while defending a6.  Probably with Ra8 s
 
 
 White has undefended Na4 and Re4.
+
+
+
+
+Test 1: Puzzle 4
+McDonald v. Lukacs, Budapest 1995
+
+White to play.
+
+c5 knight fine (?) but better outpost would enable 
+white to tie down opponent before launching minority attack
+
+
+
+Why is c5 knight fine?  It is under attack, and tieing down queen.
+
+Can offer trade of knight for bishop on e5, pawn kicks f6 knight.  Which only helps black develop knight and open diagonal for queen, so no good.  To oppose f6 knight, I want to move Bf3.  But this is not the question of the puzzle.
+
+I could attack the e6 bishop with Nf4.  Trade on c4 seems fine.  Trade on exf4 seems fine, and rook can take e file.  Also not question of puzzle.
+
+It seems like point of the puzzle is to bet Nc5.  The prerequisite is to remove the dark bishop from the diagonal.  The only piece I can get on that diagonal besides the knight is f4.  Then I have two defenders against one attacker, so I could keep the square after the trade.  
