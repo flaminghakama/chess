@@ -1,0 +1,21 @@
+Test 1, Puzzle 13
+Oll v. Hodgson
+Groningen 1993
+
+Idea: connect the major pieces by moving the knight.  
+
+We can offer exchange of the minor pieces, winning a pawn
+1 ... Nf6, 2. exf6 Rxe6, 3. Qxe6 gxf6 
+
+But I think white can just ignore it.
+
+1 ... Ne3 with the thought of playing Qd4, Nd1, Qxb2#
+
+Can it work?
+
+1 ... Ne3, 2. Be7 Qd4, 3. Bxd8 Nd1, 4. Qe8+ Kh7, 5. ??? Qxb2#
+
+1 ... Ne3, 2. Bc5 Qd4, 3. Bxd8 Nd1, 4. Qe8+ Kh7, 5. ??? Qxb2#
+
+
+

@@ -44,3 +44,77 @@ Can offer trade of knight for bishop on e5, pawn kicks f6 knight.  Which only he
 I could attack the e6 bishop with Nf4.  Trade on c4 seems fine.  Trade on exf4 seems fine, and rook can take e file.  Also not question of puzzle.
 
 It seems like point of the puzzle is to bet Nc5.  The prerequisite is to remove the dark bishop from the diagonal.  The only piece I can get on that diagonal besides the knight is f4.  Then I have two defenders against one attacker, so I could keep the square after the trade.  
+
+
+
+https://lichess.org/study/Pi8NAxga
+#2/Chapter 3
+
+white has better king safety
+
+material is asymmetrical but mostly balanced
+
+black b2 knight is attacking d1 rook and c4 bishop.
+
+White cannot move rook to b file because b1 is covered by the black bishop.  What can oppose the bishop?  
+
+white c4 bishop is also under attack.
+
+I see white could offer trade of queens on b3.  Since black queen has no defenders, black would have to trade or move the queen.  Since the b2 knight would also be under attack and the queen cannot defend, I think black will have to trade.  white would take with bishop to cover rook.  Black will be up the exchange rook for knight.  
+
+So, better move for white we still need.  We could move dRc1 to move out of attack by the knight, and also defend the c4 bishop, and stay off of light squares.
+
+Another interesting move would be Nxe6.  This would offer queen trade on e3, but leave rook and knight hanging.  So, not very good.
+
+The forcing move would be Nc6+.  Black queen would be undefended if the king moves, so black will likely take with queen, putting it on a light square.  This knight moving also opens the d file, and white can play Rd8#
+
+
+
+https://lichess.org/study/Pi8NAxga
+#4/Chapter 5
+
+white king is safer, with less advanced pawns and no black pieces in the vicinity.  Material is equal.
+
+The main action is white battery, pinning knight to queen.
+Black's light bishop seems constrained, dark bishop mostly defensive.  White's dark bishop is both offensive since it can enter the melee, and defensive 
+
+
+Seems like the point here must be to win material.
+
+Candidate moves:
+
+Qa7.
+
+Offers trade of queens with Nxa7, Bxd7.  That response would leave black's knight defending b6.  With white's bishop attacking backward e6.  
+
+The line with pushing the e pawn seems to lead to a winning position for white:  Qa7 Nxa7, Bxd7 e5, dxe5 fxe5, Bxe5 Bxe5, Be6+ Kg7, Rxe5.  So, it seems like black will lose the e pawn.
+
+The line for black defending Bc8 leaves white up a pawn: Qa7 Nxa7, Bxd7 Bc8, Bxe8 Bxe6, Rxe6. 
+
+Black cannot defend with K7.  A few other lines also lead to black losing a pawn, or worse.
+
+
+Other responses than Kxa7.  Bc8.  White could Qxb6, forcing white to trade queens on d7.  This leads to black losing 2 pawns: Qa7 Bc8, Qxd7 Bxd7, Bxc6 Bxc6, Rxe6 Bd6, Rxb6
+
+
+
+https://lichess.org/study/xSt84CMR
+#3/Chapter 4
+
+Push the a pawn and queen it.  If black pushes f pawn, Kg2.  If black pushes again, Kxg1.
+
+
+https://lichess.org/study/xSt84CMR
+#4/Chapter 5
+
+Drop the rook back, and we we can harass the king and pawn.
+If king moves off e file, we take the pawn.
+If Ke4, Ke5 and black cannot guard pawn.
+
+
+
+
+
+
+
+

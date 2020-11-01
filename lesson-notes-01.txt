@@ -1,14 +1,6 @@
-I'm not quite sure I understand what to do with the studies on lichess.  I can make comments about the position, and discuss candidate moves, which I did for https://lichess.org/study/Pi8NAxga 
-
-But when I make a move on the board, there is no feedback, no counter move.  Am I supposed to do more than just make comments on the position?
 
 
-In addition, on https://lichess.org/study/xSt84CMR
-
-Besdies the confusion of whether this is just analysis of a position or if I am supposed to play moves, I don't even understand whether I am white or black, which direction the pawns are going.
-
-
-
+online tablebase of endgames: k4it.de
 
 
 The first thing I notice is that the black knight on d7 is pinned.

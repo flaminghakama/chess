@@ -1,0 +1,102 @@
+
+
+Test 1: Puzzle 5
+M. Gurevich v. Piket
+Antwerp 1998
+
+How did black guarantee a level game by undermining his opponent's control of the dark squares
+
+
+So, which light squares is white enjoying?
+Seems like the ones f4, h4, g5, g6, e5 d4.
+
+Where can black cover dark squares?  Pushing h6 does a little bit.
+
+Possible moves to consider: c4 leads to trade of all 4 pawns, with rook ending on c4 pinning night to queen.
+
+
+Another idea is to offer trade of knights on e5, leaving dark bishop pinning knight to rook.  Would white accept the trade?  
+Another response to Ne4 would be Bf4.  But black could take Nxf3+, forcing Bxf3, and then the bishops trade on f4, leaving white with doubled f pawns and no g pawn, leaving weakness of king.   That is bad, so, white would accept the trade of knights.
+
+Then considering how to win the pinned knight on c3.  Pushing b4 would allow Na4, attacking queen.  Queen could pin knight to rook on a5, a6 or a7.  Rook must move because it is attacked by the bishop, so when Ra2, QxA4.
+
+But white has a move before b4. Seems like connecting the rooks is a good idea.  I would consider Be3 eyeballing Qb6.  Better would be Ba2, defending knight.   So, we have Ne5, Nxe5 Bxe5, Ba2.   I think this defends since now if b4, Na4 Qa6, the trade of dark bishops on a2 liquidates the dark square control.
+
+Not sure what the plan here is.  Black still has not castled.  
+
+
+
+
+Test 1: Puzzle 6
+Richardson v. Sadler
+England, 1995
+
+White is on the defensive, under pressure on the d-file, b-file, and the a5-e1 diagonal and from black's unwelcome queen.
+
+However, in order to exploit his initiative, Black must step up the pace.  How did he do this using positionally oriented means?
+
+
+It seems obvious that we should be able to take the knight with Bxc3 then trade bishops.  Or, create a passed pawn with Bxc3, Bxc3 Qxa4.
+
+This option is interesting since it keeps the Queen covering d1
+
+The other obvious candidate is to sac the Rook for the bishop on d2, then take the knight Bxc3, attacking queen.
+
+
+
+We can check the king from Qb6+ or Bb6+.  In either case, seems like king is safe on h1 until we can get rid of the rooks.  Otherwise, white loses knight if they offer trade of bishops on e3.
+
+
+Knight can go to h5, f4 and be useful.
+
+
+
+
+
+
+https://lichess.org/study/Pi8NAxga
+#5/Chapter 6
+
+notes in lichess
+
+
+https://lichess.org/study/Pi8NAxga
+#6/Chapter 7
+
+notes in lichess
+
+
+
+https://lichess.org/study/xSt84CMR
+#5/Chapter 6
+
+The idea for black to draw by getting to h8 first.  How can white prevent this?  Kd4 Kf3, Ke5 does this.  
+
+Black's other response would be to attempt to capture the pawn, but white can defend.  Kd4 Kg1, Bf3 Kg2, h3.
+
+White can contain black's attempt to get to h8: Kg3, Ke5 Kh5, Kf6 Kg4.
+
+Now, white can solidify the position and advance the pawn: Kg5 Kf2, h4 Ke3, h5.
+
+
+https://lichess.org/study/xSt84CMR
+#6/Chapter 7
+
+White's can capture the black pawn: Kc2 Ke7, Kb3 Kd6, Ka4 Kc5, Kxa5.  
+
+But seems like black can draw unless white is careful. The race to 7th rank goes: Kc6, Ka6, Kc7, Ka7.  Can white promote the pawn?
+
+Black must now try to capture the pawn, and white must defend: Kc6, Ka6 Kc5, Ka5.  So, this repeats and white needs a new strategy.  
+
+How about pushing the pawn?  First, black cannot continue down and goes back up.  white tries pushing, and at some point, black will need to take the b file, and white gets opposition:  Kc6, b4 Kb7, Kb5.
+
+I think white wants to get their king to c7.
+
+Seems like black can draw with Kb8.
+
+
+
+
+
+
+

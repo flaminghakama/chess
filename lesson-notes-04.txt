@@ -1,0 +1,82 @@
+
+Responses to attack:
+
+capture/trade
+move
+defend/protect 
+counterattack/counterplay
+sacrifice
+intermediate move (check)
+
+
+Test 1: Puzzle 7
+Kasparov v. Kramnik
+Moscow (blitz playoff) 1996
+
+Black to Play
+
+In order to avoid a repetition, White's last move was Qd4-b4.  This led to difficulties for Kasparov (white) -- how?
+
+What is going on with this position?
+
+Material is even, with matching light square bishops, both sides have connected rooks and developed knights.
+
+King safety is pretty solid on both sides.
+
+What is under attack?
+
+White offers Queen trade.  Should black trade queens?
+Qxb4, axb4.  Then what about the black pawn on a6?  attacked by both Ra1 and Be2.  Ra8 to defend would yeild b5 axb5, Rxa8 Rxa8, Bxb5.   So, queens, rooks and pawns all traded, white has slightly better bishop.  But basically even.  So, not terrible for black to trade queens but let's look for a better move.
+
+The other trade concept is to develop some other piece and let white take Qxd6 Rxd6.  No other pieces cover d6, so the trade would end there.
+
+
+Since black has the d file covered, black could push d4.  In this case, we might get  d4, Qxd6 Rxd6, exd4 Rxd4.  Or, we might get the same position from d4, exd4 Qxd4, Qxd4 Rxd4.   Then black has the open d file and is attacking the f4 knight with the d4 rook, and attacking the e2 bishop with the e1 rook.  Although, the f4 knight is defending the e2 bishop.   
+
+The white knight cannot go d5, g6, or e6 since it would be eaten.   Nd3 would lose the knight plus trade the bishops.  Nh3 would offer trade with the bishop, but weakening king safety after gxh3, and also lose the bishop on e2.   The white knight could go to h5, or stay put and be defended with g3.  
+
+Moving white knight to h5 would give up Rxe2, then either trade Nxf6 gxf6 and messing up black's king safety.  This seems like white's best option, to trade two pieces for a rook and pawn, and mess up black's king safety.
+
+
+Another thought for the white knight is defending with g3.  This would lead to  would lead to black trading a rook for two pieces Rxf4, gxf4 Rxe2, plus messing up white's king safety.
+
+
+So, is being up a piece vs a pawn enough to win, even though your pawns are terrible?
+
+
+
+Test 1: Puzzle 8
+Petrosian v. Morelos
+Lugano Olympiad 1968
+
+White to play.
+
+How did white justify his early knight jaunt?
+
+Seems like material is even.  White has more in the center.   Black has less safe king.  Black can still castle, but has weak g7, h7 and h6.  Plus, white's knight and advanced pawns are nearby.
+
+white has some move candidates.  Pushing e6 is begging the question.  Very aggressive.  Getting Ne7 looks like it could win the bishop, or more.  
+
+e6 fxe6, Nxe6 Qe5, Nxg7+ Kf8, Qxe5 and black loses a queen.
+
+Instead, black can respond e6 O-O, exf7 Rxf7, Nxf7 Kxf7, leaving white up an exchange.  Although in this position, black still has king exposed.  But black is attacking e4.
+
+What if black ignores e6?  So, e6, f6, and white must retreat knight.
+
+
+Are there other moves for white besides e6?  
+
+
+
+https://lichess.org/study/Pi8NAxga
+#7/Chapter 8
+
+https://lichess.org/study/Pi8NAxga
+#8/Chapter 9
+
+https://lichess.org/study/xSt84CMR
+#7/Chapter 8
+
+https://lichess.org/study/xSt84CMR
+#8/Chapter 9
+
