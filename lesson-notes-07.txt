@@ -1,3 +1,22 @@
+https://lichess.org/study/Pi8NAxga
+
+QGD
+https://lichess.org/study/R2ZEL0re
+Petrov
+https://lichess.org/study/hxpnBeom
+
+Etudes 
+https://lichess.org/study/JklRjKUh
+https://lichess.org/study/jzTPD83z
+
+Tactics
+https://chesstempo.com/chess-tactics/63151
+
+Endgame solver
+http://www.k4it.de/?topic=egtb&lang=en
+
+
+
 Test 1, Puzzle 13
 Oll v. Hodgson
 Groningen 1993
@@ -15,7 +34,66 @@ Can it work?
 
 1 ... Ne3, 2. Be7 Qd4, 3. Bxd8 Nd1, 4. Qe8+ Kh7, 5. ??? Qxb2#
 
-1 ... Ne3, 2. Bc5 Qd4, 3. Bxd8 Nd1, 4. Qe8+ Kh7, 5. ??? Qxb2#
+
+
+Test 1, Puzzle 14
+Skembris v. Nenashev
+
+White to play
+
+1. Nxd5 Nxd5, 2. Bxe7 Nxe7  bad exchange for white
+
+1. Bxf6 Bxf6, 2. Bxd5 white wins pawn
 
 
 
+https://lichess.org/study/Pi8NAxga
+
+#13 chapter 14
+
+
+Some Petrov games
+
+
+Lost - pretty standard through 10 moves
+https://www.chess.com/analysis/game/live/5672467754
+
+Won to 7. Be3
+https://www.chess.com/analysis/game/live/5682237311
+
+
+
+Lost to 3. d3
+https://www.chess.com/analysis/game/live/5660984723
+
+Lost to 3. d3
+https://www.chess.com/analysis/game/live/5652128297
+
+
+
+Lost to 3. Bc4
+https://www.chess.com/analysis/game/live/5657265837
+
+Lost to 3. Bc4
+https://www.chess.com/analysis/game/live/5656820633
+
+Won (transposed into 3. Bc4)
+https://www.chess.com/analysis/game/live/5655961431
+
+
+Lost to 3. Nc3
+https://www.chess.com/analysis/game/live/5656706864
+
+Won to 3. Nc3
+https://www.chess.com/analysis/game/live/2831065995
+
+Lost to (transposed to 3. Nc3)
+https://www.chess.com/analysis/game/live/2713645049
+
+
+Lost to 4. Nxf7
+https://www.chess.com/analysis/game/live/5657224716
+
+
+Lost, forgot to play 4. ... Nxe4 and played Be2 instead
+https://www.chess.com/analysis/game/live/5660639023
