@@ -1,0 +1,390 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2017.05.22"]
+[Round "?"]
+[White "Main line 5.d4"]
+[Black "?"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "134"]
+[EventDate "2017.02.09"]
+[SourceDate "2017.05.22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 (5. Bd3 Nf6 6. O-O Be7 7. h3 (
+7. c3 Bg4 8. h3 Bh5 9. Re1 O-O 10. Bc2 d5 11. g4 Bg6 12. Bxg6 hxg6 (12... fxg6
+13. d4 Nc6 14. Nbd2 Bd6 15. Ne5 g5) 13. d4 Nc6 14. Nbd2 Bd6 15. Qb3 b6) 7...
+O-O 8. c3 d5 9. Bc2 Re8 10. d4 h6 {
+try to play h6 immediately after d4 with idea not allowing the bishop on g5}
+11. Bf4 Bd6) 5... d5 6. Bd3 (6. c4 Nc6 7. Bd3 Nb4) (6. Qe2 Be7) 6... Nc6 7. O-O
+(7. Nbd2 Nxd2 8. Bxd2 Bd6 9. O-O (9. Qe2+ Qe7 10. Qxe7+ Nxe7) 9... O-O 10. c3 (
+10. h3 Nb4 11. Be2 Bf5 12. c3 Nc6) (10. c4 dxc4 11. Bxc4 Qf6 12. Bg5 Qg6 13.
+Bd3 Qh5) 10... Bg4 11. h3 Bh5 12. Re1 h6 13. Rc1 Qf6 14. Bb1 (14. Be2 Rae8)
+14... Bxf3) 7... Be7 8. c4 (8. Re1 Bg4 9. c3 (9. Bxe4 dxe4 10. Rxe4 Bxf3 11.
+Qxf3 Nxd4 12. Qc3 Ne6) 9... f5 10. Qb3 (10. Nbd2 O-O 11. Qb3 Na5 12. Qa4 c5 13.
+Ne5 Bh5 14. f3 (14. dxc5 Bxc5 15. b4 (15. Bxe4 fxe4 16. b4 Bxf2+) 15... Bxf2+)
+14... cxd4 15. fxe4 fxe4 16. Nxe4 (16. Bf1 Bc5 17. b4 (17. cxd4 Be8 18. Qd1
+Bxd4+) 17... Qf6 18. Kh1 dxc3 19. bxc5 Qf2 20. Ba3 cxd2) 16... dxe4 17. Bxe4
+dxc3 18. bxc3 Bd6 19. Qb5 Kh8) 10... O-O 11. Qxb7 Rf6 12. Qb3 Bxf3 13. gxf3 Rb8
+14. Qc2 Rg6+ 15. Kh1 Bd6 16. fxe4 (16. f4 Qh4) 16... Qh4 17. e5 Qg4) (8. Nbd2
+Bf5 9. Re1 Nxd2 10. Qxd2 (10. Bxf5 Nxf3+ 11. gxf3 (11. Qxf3 Nxd4 12. Qf4 (12.
+Qg4 Nxf5) 12... Nxf5)) 10... Bxd3 11. Qxd3 O-O $11) 8... Nb4 9. Be2 (9. cxd5
+Nxd3 10. Qxd3 Qxd5 11. Re1 Bf5 12. Nc3 Nxc3 13. Qxc3 c6 14. Re5 Qd7 15. d5 O-O
+16. Nd4 Bg6 17. dxc6 bxc6 18. Re1 Bf6 {
+0-1 Lykov,V (2315)-Frolov,D (2459)/Tomsk 2002/CBM 089 Extra (26)}) 9... O-O 10.
+a3 (10. Nc3 Bf5 11. a3 Nxc3 12. bxc3 Nc6 13. Re1 dxc4 14. Bxc4 Bd6 15. Ra2 Qd7
+16. Ng5 Na5 17. Bd3 Rae8 18. Rae2 Rxe2 19. Qxe2 b6 20. Qf3 Bg6 21. Bxg6 fxg6
+22. Qe2 h6 23. Ne6 Re8 24. c4 Nb3 25. Bb2 Bxa3 26. Bxa3 Nxd4 27. Nxd4 Rxe2 28.
+Nxe2 Qd3 29. Bb2 Qxc4 30. h3 c5 31. Ng3 Qb3 32. Be5 a5 33. h4 a4 34. h5 Kh7 35.
+hxg6+ Kxg6 36. f4 a3 37. f5+ Kf7 38. Ne4 a2 39. Ba1 Qd3 40. f6 gxf6 41. Nxf6
+Qd2 42. Kf1 b5 43. Ne4 Qd5 44. Kf2 b4 45. Ke3 c4 46. Rf1+ Ke6 47. Rf6+ Ke7 48.
+Rd6 Qxe4+ 49. Kxe4 Kxd6 50. g4 c3 51. Kd3 Kd5 {
+0-1 Leko,P (2749)-Anand,V (2786)/Monte Carlo 2005/CBM 105 Extra}) 10... Nc6 11.
+cxd5 Qxd5 12. Nc3 Nxc3 13. bxc3 Bf5 14. Re1 Rfe8 15. Bf4 Rac8 16. h3 Be4 {
+'!' Lukacs.} 17. Be3 (17. Nd2 {'!?' Lukacs. White tries to fight for an
+opening advantage by a pawn sacrifice. Lukacs: 'deserves attention.'} Bxg2 18.
+Bg4 {'!' Lukacs.} (18. c4 $5 Qf5 (18... Qxd4 19. Be3 $18) 19. Bg4 Qxf4 20. Bxc8
+Rxc8 21. Kxg2 Qxd4 {' ' Lukacs.} 22. Nf3 Qxd1 23. Rexd1 Bd6 $11) 18... Bh1 {
+'!?' Lukacs.} (18... f5 $5 19. Be2 b5 (19... Na5 20. Qa4 $1 Bf8 21. Bf3 Bxf3
+22. Rxe8 Rxe8 23. Qxe8 $16) 20. Bxb5 Qxb5 21. Kxg2 Bd6 22. Qf3 Ne7 $132) 19. f3
+Bh4 $1 (19... f5 20. Bh5 g6 21. Kxh1 gxh5 22. Qb1 $1 {' !' Lukacs.} (22. Be5
+Nxe5 23. Rxe5 Qf7 24. Qc2 Rf8 $15) 22... b6 (22... Bd6 23. Rxe8+ Rxe8 24. Bxd6
+Qxd6 (24... cxd6 25. Qxb7 $16) 25. Qxf5 $16) 23. Be5 $16) 20. Rf1 (20. Rxe8+
+Rxe8 21. Qb3 $1 Ne7 (21... Bxf3 $5 22. Bxf3 Qf5 23. Qxb7 Nd8 24. Qxc7 Bg5 25.
+Bg4 Qxf4 26. Qxf4 Bxf4 27. Nc4 $14) 22. Be5 Qxb3 23. Nxb3 f5 (23... f6 24. Bxc7
+Nd5 25. Bd6 f5 26. Bxf5 Bxf3 27. Rf1 $16) 24. Bh5 g6 25. Kxh1 gxh5 $11) (20.
+Re2 f5 21. Bh5 Rxe2 22. Qxe2 Nxd4 23. cxd4 Qxd4+ 24. Kh2 Qxf4+ 25. Kxh1 Rd8 $36
+) 20... f5 {
+0-1 Leko,P (2763)-Anand,V (2788)/San Luis 2005/CBM 110/[Huzman] (53)}) (17. Bd3
+Bxf3 18. Qxf3 Qxf3 19. gxf3 Bd6 20. Rxe8+ Rxe8 21. Be3 Na5 22. Rb1 Rc8 23. Bf5
+{Huzman: '1/2-1/2 Akopian,V-Bacrot,E/Saint Vincent ITA 2005/(25)'} Rb8 24. Bd3
+Rc8 25. Bf5 {1/2-1/2 Akopian,V-Bacrot,E/Saint Vincent ITA 2005/(25)}) (17. c4
+Qf5 18. Bg3 Bf6 19. Rc1 h5 20. d5 Bxf3 21. Bxf3 Rxe1+ 22. Qxe1 Nd4 23. Be4 Qg5
+24. Rd1 g6) 17... Na5 $1 {Lukacs: 'Kramnik's strong novelty is based on a
+positional Q sacrifice after which Black wants to bulid up a fortress.'} (17...
+Rcd8 18. Nd2 (18. c4 Qf5 $132) 18... Bg6 19. Bf3 (19. Qa4 $5 {/\ Bf3}) 19...
+Qd7 20. Qa4 (20. Qb3 Na5 $11) 20... Ne5 {'!' Lukacs.} 21. Qxd7 Nxf3+ 22. Nxf3
+Rxd7 23. Ne5 Rd5 $11 {1/2-1/2 Leko,P-Bologan,V/Dortmund Stechen 2004 (26)} 24.
+Nxg6 fxg6 25. a4 Kf7 26. Reb1 {1/2:1/2 Leko-Bologan, Dortmund rapid 2004}) 18.
+c4 (18. Nd2 $5 {Lukacs: 'was the last chance to avoid the "fortress" position.'
+} Bf5 (18... Bxg2 $2 19. c4 Qc6 20. d5 Bxd5 (20... Qg6 21. Bh5) 21. cxd5 Qxd5
+22. Qa4 $18) (18... Bg6 19. c4 Qd8 20. Bg4 Ra8 21. Qa4 Nc6 22. Rad1 Bf6 23. d5
+Ne5 24. Be2 b6) 19. Bf3 (19. Qa4 Bd7 20. Bf3 (20. Qc2 Bf5) 20... Bxa4 21. Bxd5
+c6 22. Bf3 Bb5 $13) (19. c4 Qd7) 19... Qd7 20. Ne4 Bd6 21. Nc5 Bxc5 22. dxc5
+Qxd1 23. Raxd1 c6 24. Rd4 Nb3 25. Rf4 g6 26. Rd1 Rc7 27. Rb4 Bc2 28. Rd6 a5 29.
+Rb6 $14 {1/2-1/2 Laznicka,V-Stopa,J/Legnica 2004/CBM 103 ext (64)}) (18. Ne5
+Bf6 19. Ng4 Be7 $11 {1/2-1/2 Timman,J-Erenburg,S/Gothenburg SWE 2005/(21)})
+18... Nxc4 $1 19. Bxc4 Qxc4 20. Nd2 Qd5 21. Nxe4 Qxe4 22. Bg5 Qxe1+ 23. Qxe1
+Bxg5 $11 {0-1 Leko,P-Kramnik,V/Brissago 2004/CBM 103/[Lukacs] (65)} 24. Qa5 (
+24. Qb4 $5 b6 25. d5 Be7 26. Qa4 a5 27. Re1 Kf8 $44) 24... Bf6 $1 25. Qxa7 (25.
+Rd1 a6 26. d5 Be5 $44 {and it is very difficult to find a breakthrough here.})
+25... c5 $1 {Even this was a home preparation of Kramnik.} 26. Qxb7 Bxd4 27.
+Ra2 c4 {The o^ c4 is very strong.} 28. Re2 (28. a4 g6 (28... c3 29. Re2 $1 (29.
+Rc2 Rb8 30. Qc6 Rec8 31. Qd7 (31. Qe4 Rc4 $1 32. Kh2 (32. Qf4 Re8) 32... Rxa4
+33. Rxc3 Bxc3 $11) 31... Rd8 32. Qf5 g6 $11) 29... g6 (29... c2 30. Rxe8+ Rxe8
+31. Qc6 $18) 30. Rxe8+ Rxe8 31. Kf1 $16) 29. a5 (29. Rc2 c3) 29... c3 30. Rc2
+Rb8 31. Qd7 Re1+ 32. Kh2 Be5+ 33. f4 (33. g3 Rb2) 33... Rb2 $11) 28... Red8 $1
+29. a4 (29. Rd2 Bf6 30. Rxd8+ Rxd8 31. Qc6 c3 32. a4 h6 33. a5 Rd2 34. a6 Bd4
+35. a7 Bxa7 36. Qxc3 Rxf2 $11) 29... c3 30. Qe4 Bb6 $1 31. Qc2 $6 {
+White pushes it too hard.} (31. Rc2 Ba5 (31... Rd2 $4 32. Rxc3 $18) 32. g3 g6
+33. Kg2 Rd2 $11) 31... g6 32. Qb3 Rd6 33. Rc2 Ba5 34. g4 Rd2 35. Kg2 Rcd8 36.
+Rxc3 (36. Rc1 Rb2 37. Qc4 Rdd2 38. Qc5 Bb6 39. Qxc3 Rxf2+ 40. Kg3 Rfe2 41. Qc8+
+Kg7 42. Rc3 Rg2+ 43. Kf4 Rb4+ 44. Kf3 Rf2+ 45. Kg3 Rb1 $132) 36... Bxc3 37.
+Qxc3 R2d5 $15 {The roles have been changed, now it is Black who can try to win.
+} 38. Qc6 Ra5 39. Kg3 Rda8 40. h4 R5a6 41. Qc1 Ra5 42. Qh6 Rxa4 (42... R8a6 43.
+Qd2 Rxa4 44. h5) 43. h5 (43. f3 R4a5 44. Qd2 (44. h5 g5 45. Qf6 h6 $17) 44...
+Ra2 $15) 43... R4a5 {# /\ g5} 44. Qf4 $4 {This blunder loses the game.} (44.
+hxg6 $1 {was the only chance for a draw.} hxg6 45. g5 Rf5 46. f4 {
+building up the fortress.} Ra4 47. Qh4 Kf8 (47... Rfxf4 48. Qxf4 Rxf4 49. Kxf4
+Kg7 (49... Kf8 50. Ke4 Ke8 (50... Ke7 51. Ke5 $11) 51. Kd4 Kd8 52. Ke4 $11) 50.
+Ke5 $11) (47... Re4 48. Kf3 $11) 48. Qh8+ $1 (48. Kf3 $2 Raxf4+ (48... Ke7 49.
+Qe1+ Kf8) 49. Qxf4 Ke7 $3 (49... Rxf4+ $2 50. Kxf4 Ke7 51. Ke5 $11) 50. Qxf5
+gxf5 51. Ke3 Kd6 $19) 48... Ke7 49. Qb8 $1 Raxf4 (49... Rfxf4 50. Qe5+ $11) 50.
+Qc7+ $1 {The black K has to retreat.} (50. Qxf4 $2 Rxf4 51. Kxf4 Kd6 $1 $19)
+50... Kf8 (50... Ke6 51. Qc6+ Ke5 52. Qc5+ $11) 51. Qxf4 Rxf4 52. Kxf4 $11 {
+and the P _|_ is draw!}) 44... g5 $1 45. Qf6 h6 $1 $19 {
+Probably this move was overseen by Leko. The Q can be trapped on h6!} 46. f3 (
+46. f4 Ra3+ $1 47. Kf2 Ra2+ 48. Kf1 (48. Kf3 R8a3+ 49. Ke4 Ra4+ $19) 48... Rc8
+$19) 46... R5a6 47. Qc3 Ra4 $1 {
+The f3 P will soon or later fall and the P _|_ is already lost.} 48. Qc6 (48.
+Qf6 R8a6) 48... R8a6 49. Qe8+ Kg7 50. Qb5 R4a5 51. Qb4 Rd5 52. Qb3 (52. f4 Rd3+
+53. Kf2 Ra2+ 54. Ke1 Rh3 $19) 52... Rad6 53. Qc4 Rd3 54. Kf2 Ra3 55. Qc5 (55.
+f4 Rd2+ 56. Ke1 Rh2 $19) 55... Ra2+ 56. Kg3 Rf6 $1 {/\ Ra4-f4} 57. Qb4 Raa6 58.
+Kg2 Rf4 59. Qb2+ Raf6 60. Qe5 Rxf3 61. Qa1 Rf1 62. Qc3 R1f2+ 63. Kg3 R2f3+ 64.
+Qxf3 Rxf3+ 65. Kxf3 Kf6 {
+0-1 Leko,P (2741)-Kramnik,V (2770)/Brissago 2004/CBM 103/[Lukacs]} 66. Ke4 Ke6
+67. Kd4 (67. Kf3 Ke5 (67... f5 68. gxf5+ Kxf5 69. Kg3 g4 (69... Ke4 70. Kg4 Ke3
+71. Kg3 Ke4 72. Kg4 Ke5 73. Kf3 Kd4 74. Kg3 (74. Kf2 Ke4 75. Kg3 Kf5) 74... Ke3
+75. Kg4 Ke4 76. Kg3 Kf5 77. Kh3 (77. Kf3 g4+ 78. Kg3 Kg5 79. Kf2 Kxh5) 77...
+Kf4) 70. Kh4 Kf4) (67... Kd5 68. Ke3 Ke5 69. Kf3 Kd4) 68. Ke3 f6 69. Kf3 (69.
+Kd3 Kf4) 69... Kd4 70. Kg3 Ke4 71. Kh3 Kf4 72. Kg2 Kxg4 73. Kf2 Kxh5) 67... f5
+0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2017.10.29"]
+[Round "?"]
+[White "sacrifice   4.Nxf7"]
+[Black "?"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "20"]
+[EventDate "2017.02.09"]
+[SourceDate "2017.10.29"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 {not so bad sacrifice...now i am
+remembering that i had before one student who was playing all the time against
+Petroff like this in chess.com :)} Kxf7 5. d4 {looks like main move} (5. Nc3 {
+Li.C played g6 but let's see the best one} Be6 $1 ({
+i fount interesting rapid game Ivanchuk-Li, C.} 5... g6 {g6 is also good plan}
+6. d4 Kg7 7. Be3 Ng4 8. Bf4 Be7 9. Qd2 Rf8 10. Be2 g5 11. Bg3 Nc6 $6 12. Nd5 h6
+13. Bxg4 Bxg4 14. f3 Be6 15. O-O-O Bxd5 16. exd5 Nb8 17. Rde1 Nd7 18. Re6 Rf6
+19. Rhe1 Rxe6 20. dxe6 Nf6 21. d5 c6 22. dxc6 bxc6 23. h4 Nh5 24. Bf2 c5 25.
+Kb1 Rb8 26. b3 a5 27. hxg5 hxg5 28. Be3 a4 29. Rh1 axb3 30. axb3 Ng3 31. Rh3
+Nf5 32. Qd3 Nh4 33. f4 Ra8 34. Bd2 Bf6 35. Bc3 Bxc3 36. Qxc3+ Qf6 37. fxg5 Qxc3
+38. Rxc3 Re8 39. Re3 Nxg2 40. Re4 Kg6 41. b4 Kf5 42. Re2 Nf4 43. Rd2 Rxe6 44.
+bxc5 dxc5 45. Kb2 Re3 46. Rd8 Kxg5 47. Rf8 Ne6 48. Rf1 Nd4 49. c3 Nb5 50. Rc1
+c4 51. Rd1 Re2+ 52. Kc1 Na3 53. Rd5+ Kf4 {
+0-1 Ivanchuk,V (2710)-Li,C (2751)/Huaian 2016/CBM 171 Extra}) 6. d4 Kg8 7. Be2
+{try to destroy that center with c5} c5 8. d5 Bf7 9. O-O Nbd7 10. Bg5 (10. Be3
+Qe7 11. f3 h6 12. a4 g5 13. a5 Bg6 14. Qd2 Bg7 15. Rad1 Kh7 $17) 10... h6 11.
+Bh4 g5 12. Bg3 Qe7 {with clear advantage}) (5. Bc4+ {the weakest is Bc4} d5 6.
+exd5 (6. Bb3 Be6 7. e5 Ne4 8. d3 (8. Qf3+ Ke8 (8... Kg8 $4 {of course not} 9.
+Qxe4 dxe4 10. Bxe6#)) (8. O-O Nc5 9. f4 Nxb3 10. axb3 Bf5) (8. d4 c5 9. c3 cxd4
+10. cxd4 Bb4+ 11. Nc3 Kg8 12. O-O Nxc3 13. bxc3 Bxc3 14. Rb1 Nc6 $19) 8... Nc5
+9. Qf3+ Kg8 $19) 6... Bd6 {yes white received 3 pawns for the piece back but
+you can develop in force with such a blockated center} 7. O-O Rf8 8. d4 Kg8 9.
+Nc3 Bf5 10. Bg5 Nbd7 11. Re1 a5 12. a4 h6 13. Bh4 g5 14. Bg3 Bxg3 15. hxg3 Nb6
+16. Bb3 Nfxd5 17. Re5 c6 {and exchange as much as possible after it}) {
+advantage after c5} 5... c5 6. Nc3 (6. dxc5 d5 7. e5 (7. exd5 Bxc5 8. Be2 Qxd5
+9. Qxd5+ Nxd5 10. Bc4 Be6) 7... Ng4 8. h3 (8. Bf4 Bxc5) (8. Bc4 Bxc5 9. Bxd5+
+Ke8 10. O-O Qh4 11. Bf4 Bxf2+ 12. Kh1 Rf8 $19) 8... Nxe5 9. Qh5+ Ng6 10. Be3
+Be6 11. Nc3 Qh4) (6. c3 Nc6 7. d5 (7. Be3 d5 8. e5 Ng4 9. Qf3+ Kg8 $17) (7. Be2
+cxd4 8. cxd4 Qb6 9. d5 Nxe4 10. Be3 (10. dxc6 Qxf2#) 10... Qa5+ 11. Nc3 Nxc3
+12. bxc3 Ne7 $17) 7... Ne5 8. f4 Ng6 9. Bd3 c4 10. Bc2 Qb6 11. Qd4 Be7 12. O-O
+Bg4 13. h3 Be2 14. Rf2 Bd3 15. Bxd3 Qxd4 16. cxd4 cxd3 17. Nc3 Bd8 18. e5 dxe5
+19. fxe5 (19. dxe5 Bb6 20. exf6 gxf6) 19... Bb6 20. Be3 (20. exf6 Bxd4 21.
+fxg7+ Kxg7 $17) 20... Nxe5) (6. Bc4+ d5 7. exd5 Bd6 8. O-O (8. dxc5 Re8+ 9. Be3
+Bxc5 10. d6+ Be6) 8... cxd4 9. Qxd4 Qb6 10. Qxb6 axb6) 6... Bg4 7. f3 (7. Be2
+Bxe2 8. Nxe2 (8. Qxe2 cxd4 9. Nd5 Nc6) 8... cxd4 9. Nxd4 (9. Qxd4 Nc6) 9... Nc6
+) (7. Qd3 cxd4 8. Qxd4 Nc6 9. Qe3 (9. Qd2 d5 10. exd5 (10. Nxd5 Be6 11. Bc4 Qa5
+$17) 10... Qe8+ 11. Be2 Bxe2 12. Nxe2 Rd8 13. c3 (13. c4 Bb4) 13... Rxd5) 9...
+d5 10. Nxd5 (10. exd5 Bb4 11. Bc4 (11. dxc6 Qd1#) 11... Re8 12. dxc6+ Kf8 13.
+O-O Rxe3) 10... Nb4 $17) 7... cxd4 8. Qxd4 (8. Nd5 Be6 9. Qxd4 Nxd5 10. exd5
+Qa5+ 11. Bd2 Qxd5) (8. fxg4 dxc3 9. bxc3 h6 10. Bc4+ Ke8 11. O-O Qc7 12. Bb3
+Qc5+ 13. Kh1 Nbd7) 8... Nc6 9. Qa4 (9. Bc4+ d5 10. Qf2 (10. exd5 Nxd4) (10. Bb3
+Nxd4) 10... Be6 11. exd5 Nxd5 12. Ne4 Be7) 9... Be6 10. Bg5 Qa5 $17 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2017.02.09"]
+[Round "?"]
+[White "1.e4 e5 2.Nf3 Nf6 3.d4"]
+[Black "?"]
+[Result "0-1"]
+[ECO "C43"]
+[Annotator "35988"]
+[PlyCount "20"]
+[EventDate "2017.02.09"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 (3. Bc4 Nxe4 4. Nc3 (4. Nxe5 d5) (4. Qe2 d5 5. d3
+dxc4 6. dxe4 Nc6 7. Qxc4 Be6 8. Qe2 Qe7 9. O-O O-O-O) 4... Nxc3 5. dxc3 f6 $1
+6. Nh4 (6. O-O g6 7. Bg5 (7. Re1 Qe7 (7... c6 $4 8. Nxe5 fxe5 9. Rxe5+ Be7 10.
+Qd6)) 7... Nc6 (7... fxg5 8. Nxe5 Qf6 9. Nf7 Nc6 10. Re1+ Be7 11. Nxh8 Qxh8) 8.
+Re1 Qe7 9. Bh4 d6) (6. Nxe5 Qe7) 6... g6 7. f4 (7. O-O c6) 7... c6 8. fxe5 (8.
+f5 d5 9. fxg6 dxc4 10. Qh5 Kd7 11. g7 Bxg7 12. Qg4+ Kd6 13. Qxg7 Qf8 14. Qg3
+Be6 15. O-O Nd7 16. Be3 Kc7) (8. O-O d5) 8... fxe5) 3... Nxe4 {Marin,M: White
+can reach the same structure as in the game with the move order} 4. Bd3 (4.
+dxe5 Bc5 5. Qd5 (5. Bc4 Nxf2 6. Bxf7+ Kf8 7. Qd5 Nxh1 8. Qxc5+ (8. Bh5 Qe7 9.
+Bg5 Bf2+ 10. Kf1 Qe6) 8... Kxf7 9. Qc4+ Ke8 10. Nc3 d5 11. exd6 Qxd6 12. Nb5
+Qe7+ 13. Kf1 Na6 14. Bg5 Qf7 15. Qa4 Kf8 16. Kg1 Be6 17. Rf1 Bc4 $1) (5. Be3
+Bxe3 6. fxe3 d5 7. exd6 Qxd6 8. Qxd6 Nxd6) 5... Bxf2+ 6. Kd1 f5 7. Bc4 (7. Nc3
+c6 8. Nxe4 cxd5 9. Nd6+ Kf8 10. Bg5 Qb6) 7... Qe7 8. Nc3 c6 9. Qd3 (9. Nxe4
+cxd5 10. Nd6+ Kd8) 9... b5 10. Bb3 a5 11. a4 (11. Nxe4 fxe4 12. Qxe4 a4 13. Bg5
+d5 $3) 11... b4 12. Nxe4 fxe4 13. Qe2 (13. Qxe4 d5) 13... d5 14. exd6 Qxd6+ 15.
+Bd2 e3 16. Rf1 Ba6 17. Bc4 Bxc4 18. Qxc4 Ra7 19. Ke2 Re7 20. Be1 Qg6 21. g3 Re4
+22. Qd3 Nd7 23. Rd1 O-O 24. Qxd7 Qh5 25. g4 Qh3 26. Ng5 Qg2 27. Bxf2 Rxf2+ 28.
+Rxf2 exf2+ {0-1 Bruzon Batista,L (2607)-Ivanchuk,V (2787)/Merida 2007/CBM 121
+Extra}) (4. Nxe5 d6 5. Nf3 (5. Qf3 $2 dxe5 6. Qxe4 Qxd4) (5. Bd3 Nxf2 6. Nxf7
+Nxd3+ 7. Qxd3 Qh4+ 8. g3 Qe7+ 9. Ne5 dxe5 10. O-O Nc6 11. dxe5 Bd7) (5. Nc4 d5
+6. Ne5) (5. Nd3 d5) (5. Nxf7 Qe7) 5... d5 6. Bd3 {transpose to the main line 5.
+d4} (6. Ne5 Bd6 (6... Nd7 7. Nxf7 Qe7 (7... Kxf7 8. Qh5+ g6 (8... Ke6 9. Qg4+
+Kf7 10. Qh5+ g6 11. Qxd5+ Kg7) 9. Qxd5+ Kg7 10. Qxe4 Bb4+ 11. Kd1 Re8) 8. Nxh8
+(8. Ne5 Nxe5 9. dxe5 Nxf2 10. Kxf2 Qh4+ 11. g3 Bc5+ 12. Ke1 Qe4+) 8... Nc3+))
+6... Nc6 7. O-O Be7 8. c4 Nb4 9. Be2 (9. Bxe4 dxe4 10. Ne5 O-O 11. a3 f6 12.
+axb4 (12. Ng4 Nd3 13. Ne3 (13. Be3 Nxb2) (13. d5 Nxc1 14. Qxc1 Bxg4)) 12...
+fxe5 13. dxe5 Qxd1 14. Rxd1 Bxb4) 9... Be6 10. Nc3 O-O 11. Be3 Bf5 12. Rc1 dxc4
+13. Bxc4 c6 14. Ne5 Nxc3 15. bxc3 Nd5 16. Qb3 f6 17. Qxb7 fxe5 18. Qxc6 Be4 19.
+dxe5 Kh8 20. Bd4 Rc8 21. Qa6 Nf4 22. f3 Rc6 23. Qa4 Rxc4 24. Qxc4 Bd3 25. Qc6
+Ne2+ 26. Kh1 Nxd4 27. cxd4 Bxf1 28. Rxf1 Qxd4 29. f4 Qxe5 30. g3 Qc5 31. Qe4
+Bf6 32. Kg2 Rc8 33. Rf2 Qc6 34. Qxc6 Rxc6 35. g4 h6 36. Kf3 Rc3+ 37. Ke4 Kh7
+38. Re2 Rc4+ 39. Kf5 Rc5+ 40. Ke6 Rc4 41. Rf2 Kg6 42. h3 Rc3 43. Rh2 Rf3 44.
+f5+ Kg5 45. a4 Kh4 46. Kd5 Ra3 47. Kc6 Rxa4 48. Kb7 a5 49. Kb6 Ra3 50. Kb5 Rxh3
+{0-1 Smirin,I (2615)-Anand,V (2720)/New York 1994/CBM 041 Extra}) (4. Bc4 d5 5.
+Bb3 exd4 6. Qxd4 Be6 7. O-O Nc6 8. Ba4 Qd7 9. Qd3 Bd6) 4... d5 5. Nxe5 (5. dxe5
+{However, in this case the d3-bishop would be exposed to ...Nc5.} Nc5 6. Nc3 c6
+7. Nd4 Be7 8. O-O O-O 9. f4 Nxd3 10. Qxd3 f5 11. Nb3 Na6 12. Be3 Nc7 13. Ne2 b6
+14. Nbd4 Ba6 15. Qd2 Qe8 16. c3 c5 17. Nf3 Rd8 18. Rfd1 Ne6 19. a4 h6 20. a5
+Qb5 21. Ng3 bxa5 22. Qc2 g6 23. Qa4 Qxa4 24. Rxa4 d4 25. cxd4 cxd4 26. Nxd4 Bc5
+27. Rxa5 Nxd4 28. Rxa6 Nf3+ 29. Kf2 Bxe3+ 30. Kxf3 Rxd1 31. Kxe3 Rfd8 32. Rxg6+
+Kh7 33. Ra6 R8d3+ {0-1 Navara,D (2672)-Kramnik,V (2788)/Prague 2008/CBM 124
+Extra (62)}) 5... Nd7 6. O-O (6. Nxd7 Bxd7 7. O-O Be7 8. c4 Nf6 9. Nc3 dxc4 10.
+Bxc4 O-O 11. Qb3 Rb8) (6. Nxf7 $11 Kxf7 7. Qh5+ Ke6 $1 8. Qg4+ (8. Qe2 Kf7) (8.
+c4 $2 Ndf6 9. Qe5+ Kf7 10. O-O Bd6) (8. Nc3 $2 Ndf6 9. Qe5+ Kf7 10. Nxe4 Nxe4
+11. Bxe4 dxe4 12. Qxe4 Qe7) (8. f3 $2 Nef6 9. Qh3+ Kf7) (8. Bxe4 $2 dxe4 9. d5+
+(9. Qg4+ Kf7 10. Qh5+ g6 11. Qd5+ Kg7 12. Qxe4 Bb4+ (12... Qe7) 13. c3 Re8)
+9... Ke7 10. Bg5+ Nf6 11. O-O Bf5 12. Bxf6+ Kxf6 13. g4 Bg6 14. g5+ Kf7) 8...
+Kf7) 6... Nxe5 7. dxe5 Nc5 8. Be2 c6 9. Be3 Ne6 10. f4 Bc5 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2017.02.09"]
+[Round "?"]
+[White "1.e4 e4 2.Nf3 Nf6 3.Bc4"]
+[Black "?"]
+[Result "0-1"]
+[PlyCount "26"]
+[EventDate "2017.02.09"]
+[SourceDate "2017.02.09"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nc3 (4. d3 Nc5 5. Nxe5 (5. Nc3 c6 6. Nxe5 d5
+7. Bb3 Bd6 8. d4 Nxb3 9. axb3 O-O 10. O-O Nd7 11. f4 (11. Bf4 Nxe5 12. Bxe5
+Bxe5 13. dxe5 Re8 14. f4 f6 15. exf6 Qxf6 16. Qd2) 11... Re8 12. Ne2 c5 13. c3
+cxd4 14. cxd4 f6) 5... d5 6. Bb3 Nxb3 7. axb3 Bd6 8. d4 O-O 9. Bf4 f6 10. Nd3
+Re8+ 11. Be3 Bf5 12. O-O Nd7 13. Nc3 c6 14. Qd2 Nf8 15. Nc5 Qc7 16. g3 Qf7 17.
+Rac1 Bh3 18. Rfe1 Qh5 19. Qe2 Bg4 20. Qf1 Bxc5 21. dxc5 Ne6 22. Bd2 Nd4 23. Re3
+Rxe3 24. fxe3 Nf3+ 25. Kf2 Nxd2 26. Qg2 Bh3 27. Qh1 d4 28. exd4 Re8 29. Kg1 Qg5
+{0-1 Darur,F-Sammalvuo,T (2461)/Turin 2006/CBM 113}) (4. Nxe5 d5 5. Bb3 (5. Qe2
+Bc5 6. O-O (6. d3 Bxf2+ 7. Kf1 O-O 8. dxe4 Bd4 9. exd5 Re8) 6... O-O 7. Bb3 Re8
+8. c3 Bxf2+ 9. Rxf2 Nxf2 10. Kxf2 Qf6+) 5... Qg5 6. d4 Qxg2) (4. Qe2 d5 5. O-O
+(5. Nxe5 Bc5 6. O-O O-O 7. Bb3 (7. d3 Nxf2) 7... Re8) 5... Bg4 6. h3 Bxf3 7.
+Qxf3 Nf6) (4. O-O d5 5. Re1 (5. Bb3 Nc6 6. Re1 Bc5 7. Re2 Bg4 (7... Nxf2 8.
+Rxf2 Bxf2+ 9. Kxf2 e4 10. Qe2 O-O) 8. d3 Bxf3 9. gxf3 Ng5 10. f4 Nf3+ 11. Kg2
+Qh4 12. Kxf3 Qh3#) 5... Nxf2 6. Rxe5+ Be7 7. Kxf2 dxc4 8. Qe2) 4... Nxc3 5.
+dxc3 f6 (5... d6 $4 6. Ng5) 6. O-O (6. Nh4 g6 7. Nf5 (7. f4 c6 8. fxe5 (8. f5
+d5 9. Bb3 Qe7 10. fxg6 Rg8 11. gxh7 Qxh7 12. Nf3 (12. g3 Qe4+ 13. Kf2 Bc5+)
+12... Rxg2) 8... fxe5 9. O-O Qxh4 10. Bf7+ Kd8) 7... d5 8. Bxd5 Bxf5 9. Bxb7
+Nd7 10. Bxa8 Qxa8) 6... d6 7. Re1 (7. Nh4 g6 8. f4 Qe7 9. f5 Qg7) 7... Nc6 8.
+b4 Ne7 9. Bb3 a5 10. a4 Qd7 11. bxa5 Rxa5 12. Bd2 g6 13. Qe2 Bg7 $19 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2017.02.09"]
+[Round "?"]
+[White "rare 3rd move"]
+[Black "Petroff defence"]
+[Result "0-1"]
+[ECO "C42"]
+[PlyCount "18"]
+[EventDate "2017.02.09"]
+[SourceDate "2017.02.09"]
+
+1. e4 e5 2. Nf3 Nf6 3. b3 (3. d3 Nc6 4. Bg5 (4. c3 d5 5. Qc2 Bd6 6. Bg5 (6. Be2
+h6 7. a4 (7. b4 Ne7 8. Nbd2 c6 9. Nf1 Ng6 10. Ng3 a5 11. Qb3 axb4 12. cxb4 O-O)
+7... a5) 6... Be6 7. Be2 h6 8. Bh4 g5 9. Bg3 g4 10. Nh4 Qd7 11. Nd2 (11. f3
+O-O-O 12. fxg4 dxe4 13. dxe4 Nxg4) 11... O-O-O 12. b4 d4 13. b5 dxc3 14. bxc6
+cxd2+ 15. Kxd2 Bb4+ 16. Kd1 Qd4 17. Rc1 b5 (17... b6 18. Qa4 Kb8 19. Qa6 Bc8)
+18. Rb1 Nxe4) 4... d5 5. exd5 Qxd5 6. Nc3 Bb4 7. Be2 e4 8. dxe4 Qxd1+ 9. Rxd1
+Nxe4 10. Bd2 Nxd2 11. Rxd2 Be6 12. O-O O-O 13. Rfd1) (3. a3 Nxe4 4. Nxe5 d5 5.
+d4 Bd6 6. Bd3 O-O 7. O-O c5 8. c3 cxd4 9. cxd4 Nc6) (3. h3 Nxe4 4. d3 Nf6 5.
+Nxe5 d5 6. d4 Bd6 7. Bd3 O-O 8. O-O c5 9. c3 Nc6 10. Re1 Re8 11. Nxc6 Rxe1+ 12.
+Qxe1 bxc6 13. dxc5 Bxc5 14. Bf4 Nh5 15. Bh2) 3... Nxe4 4. Bb2 (4. Qe2 d5 5. d3
+Nf6 6. Nxe5 Be7 7. Bb2 O-O 8. Nd2 d4 9. O-O-O) 4... Bc5 5. Qe2 Bxf2+ 6. Kd1 d5
+7. Nc3 Nc6 8. Nxe4 dxe4 9. Qxe4 (9. Nxe5 Nxe5 10. Qxf2 Qd6) 9... f6 0-1
+
+[Event "Beijing FIDE GP"]
+[Site "Beijing"]
+[Date "2013.07.10"]
+[Round "6"]
+[White "5.Nc3/5.c4, Karjakin"]
+[Black "Mamedyarov"]
+[Result "0-1"]
+[ECO "C42"]
+[WhiteElo "2776"]
+[BlackElo "2761"]
+[Annotator "Amazonka"]
+[PlyCount "32"]
+[EventDate "2013.07.04"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "21"]
+[Source "ChessBase"]
+
+{[%evp 0,32,34,28,23,20,23,20,36,26,34,33,30,33,23,19,13,-1,22,-4,25,11,13,27,
+23,-23,23,-21,1,18,18,26,29,28,28]} 1. e4 (1. d4 d5 2. c4 c6 3. Nc3 e5 4. e3
+exd4 5. exd4 Nf6 6. Nf3 Be7 7. cxd5 Nxd5 8. Bd3 O-O 9. h3 c5 10. O-O cxd4 11.
+Nxd4 Nc6 12. Nxc6 bxc6 13. Qf3 Be6 14. Be4 {1/2 Halkias,S (2526)-Cheparinov,I 
+(2576)/Mallorca 2004/CBM 104}) 1... e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3
+(5. c4 c6 6. Nc3 Nxc3 7. dxc3 Be7 8. Be2 O-O 9. Bf4 Qb6 10. Qc2 Nd7 11. Rd1 Ne5
+12. Nxe5 dxe5 13. Bxe5 Qa5 14. Qe4 Re8 15. O-O Bf8 16. c5 Qxc5 17. Bd3 f5 {
+1/2 Leko,P (2736)-Morozevich,A (2678)/Monte Carlo 2003 (31)}) (5. Qe2 Qe7 6. d3
+Nf6 7. Bg5 (7. Nc3 {[%csl Gf4][%cal Gc1f4]} Qxe2+ 8. Bxe2 Be7 9. Bf4 {[%csl
+Rd6,Rf4][%cal Rc7c6]} O-O {[%csl Gd2,Ge3,Gg5][%cal Gc1g5,Gc7c6,Gd6d5,Gb8a6,
+Ga6c7,Gc7e6]} 10. O-O-O Nc6 11. Nb5 (11. d4 Bd8 {[%csl Gd8][%cal Ge7d8] Bd8 is
+working very well only after white is pushing d4 bc he wants d5 next! and
+space for the knight on e7 u did} 12. Rhe1 (12. d5 Ne7 {[%csl Gf5,Gg4][%cal
+Gc8f5,Gc8g4]}) 12... a6 13. d5 (13. Kb1 b5 {[%csl Re5][%cal Rf3e5,Rd4d5,Rc6e7,
+Re7g6,Re7f5,Rc8b7,Rb7h1]}) 13... Ne7) 11... Nd5 12. Bd2 a6) (7. Bf4 Nc6 {
+[%csl Rf4][%cal Ga7a6,Gb7b5]} 8. Nc3 a6) (7. Qxe7+ Bxe7 8. Bf4 O-O 9. Nc3 Nc6
+10. Nb5 (10. Be2 a6 11. O-O {[%csl Gd8,Ge7][%cal Ge7d8,Gc6e7,Gd3d4,Gd4d5]} b5)
+10... Nd5) (7. Be3 Nc6 8. Nc3 d5 9. O-O-O Bf5) 7... Qxe2+ 8. Bxe2 Be7 9. Nc3 (
+9. Nbd2 Nd5 10. Bxe7 Nxe7 11. O-O-O Nbc6 12. Rhe1 Bd7 13. d4 O-O-O 14. Bc4 d5
+15. Bd3 Rde8 16. c3 Bf5 17. Bxf5+ Nxf5 18. Rxe8+ Rxe8 19. Re1 Rxe1+ 20. Nxe1
+Nd8 21. Nd3 Ne6 22. Nf1 f6 23. Kd2 Kd7 24. Ne3 Nxe3 25. Kxe3 c6 26. b4 b5 27.
+Nf4 Nxf4 28. Kxf4 Ke6 29. g4 g5+ 30. Ke3 h6 31. h3 f5 32. f3 f4+ 33. Kd3 Kd7 {
+1/2 Li,C (2686)-Wang,Y (2705)/Shenzhen 2013/CBM 155 Extra}) (9. O-O c6 10. Re1
+(10. Nc3 {[%csl Rb5,Rd5][%cal Rc3d5,Rc3b5,Rb7b6]}) 10... h6 {[%cal Gc8e6,Gf3d4,
+Gd4e6]}) 9... c6 10. O-O-O (10. Ne4 Nxe4 11. dxe4 Bxg5 12. Nxg5 h6 13. Nf3 Ke7
+14. O-O-O Rd8 15. Nd4 {1/2 Svidler,P (2754)-Grischuk,A (2736)/Moscow 2009/EXT
+2010}) (10. d4 Be6 11. h3 Nbd7 12. O-O-O h6 13. Bh4 Nb6 14. Rhe1 Kd7 15. Bd3 {
+[%emt 0:00:09] 1/2 Short,N (2665)-Karpov,A (2725)/Tilburg 1988/CBM}) (10. O-O
+Na6 11. Rfe1 Nc7 12. Bf1 Ne6 13. Be3 O-O 14. d4 Re8 15. d5 Nxd5 16. Nxd5 cxd5
+17. Bb5 Rd8 18. Red1 Bf6 19. c3 Nc7 20. Be2 Re8 21. Nd4 Bd7 22. Bf3 Bxd4 23.
+Bxd4 Bc6 24. Be3 {1/2 Spassky,B (2625)-Karpov,A (2720)/Turin 1982/MCD}) 10...
+Na6 11. Nd4 Nc7 12. Rde1 Ne6 13. Nxe6 Bxe6 14. f4 d5 15. Bf3 Kd8 16. Ne2 Re8
+17. Ng3 g6 18. Ne2 Bd7 19. c4 dxc4 20. dxc4 Ng8 21. Nc3 f6 22. Bh4 Bd6 23.
+Rxe8+ Kxe8 24. Ne2 Be6 25. b3 Bf5 26. Kb2 Rd8 27. Bf2 Bxf4 28. g4 Be5+ 29. Kc1
+Be6 30. Bxa7 Ra8 31. Bd4 Rxa2 32. Re1 Kf7 33. Bxe5 fxe5 34. h3 Nf6 35. Nc3 Rh2
+36. g5 Nd7 {0-1 Timman,J (2600)-Karpov,A (2725)/Tilburg 1980/MCD}) (5. d3 Nf6
+6. Bg5 Be7 7. Be2 (7. d4 O-O 8. Bd3 c5 9. O-O Nc6 10. dxc5 dxc5 11. Nc3 Nb4 12.
+Bc4 Bf5 13. Ne5 Nxc2 14. Rc1 Nd4 15. Re1 Qc7 16. Qd2 Rad8 17. Qf4 Be6 18. Qh4
+h6 19. Bxe6 hxg5 20. Bxf7+ Rxf7 21. Qxg5 Rff8 22. Ng6 Rfe8 23. Qh4 Bd6 24.
+Rxe8+ Rxe8 25. Rd1 Kf7 26. Qg5 Bxh2+ 27. Kh1 Bd6 28. f4 Qd7 29. Nh4 Qg4 30.
+Qxg4 Nxg4 31. Kg1 Be7 32. Nf3 Nxf3+ 33. gxf3 Nf6 34. Ne4 Rd8 35. Ng5+ Ke8 36.
+Re1 Rd2 37. Ne6 Rxb2 38. Nxc5 Kf7 39. Nd3 Rxa2 40. Ne5+ Kg8 41. Ng6 Bc5+ 42.
+Kh1 Nh5 {0-1 (42) Deviatkin,A (2495)-Zarnicki,P (2513) playchess.com INT 2004})
+7... O-O 8. O-O h6 $1 {[%csl Rd4,Rf3][%cal Gg5f4,Gg7g5,Gg5g4,Rf3d4]} 9. Bh4 c5
+$1 10. Nc3 (10. c4 g5 11. Bg3 Nh5) (10. d4 Nc6 11. c3 (11. dxc5 dxc5 12. Qxd8
+Rxd8) (11. d5 Nxd5 12. Qxd5 Bxh4 13. Nxh4 Qxh4 14. Qxd6 Qb4 15. b3 Bf5) 11...
+cxd4 12. cxd4 (12. Nxd4 d5 13. Bf3 g5 14. Bg3 Ne4 15. Qb3 Re8) 12... Qb6 13.
+Qd2 Ne4 14. Qe3 Bxh4 15. Nxh4 (15. Qxe4 Qxb2 16. Nbd2 Bf6 17. Rab1 Qc3 18. Rfc1
+Qa5) 15... Qxb2) 10... Nc6 11. d4 {[%cal Gg7g4]} g5 12. Bg3 g4 13. Ne1 cxd4 14.
+Nb5 h5) 5... Nxc3 6. dxc3 {A very popular line against the Petroff. It gives
+White certain prospects of gaining the initiative.} Be7 7. Be3 (7. Bf4 Nc6 8.
+Qd2 Be6 9. O-O-O Qd7 10. Kb1 O-O-O 11. Bb5 a6 12. Ba4 Bf6 13. Bg5 Bxg5 14. Qxg5
+b5 15. Bb3 f6 16. Bxe6 Qxe6 17. Qf4 h5 18. h3 g5 19. Nd4 Qd5 20. Nxc6 Qxd1+ 21.
+Rxd1 gxf4 22. Nxd8 Kxd8 23. Kc1 Rg8 24. Rg1 f3 25. g3 Re8 26. Rd1 Re2 27. Rd2
+Re1+ 28. Rd1 Re2 {1/2 Ivanchuk,V (2781)-Kramnik,V (2788)/Moscow 2008/CBM 126})
+(7. Bd3 Nc6 8. Bf4 Be6 9. Qe2 (9. Nd4 Qd7 (9... Nxd4 10. cxd4 Qd7) 10. Qe2 Nxd4
+11. cxd4 O-O-O 12. O-O (12. O-O-O Qa4) 12... Bf5 13. Bxf5 (13. Bb5 c6 14. Bd3 (
+14. Bc4 g5 15. Bg3 h5 16. h3 h4 17. Bh2 g4 18. Bxf7 gxh3) 14... Bf6) 13... Qxf5
+14. Qxe7 Qxf4) 9... Qd7 10. O-O-O O-O-O (10... Bf6) 11. Bb5 (11. Kb1 Rhe8 12.
+Bb5 Bf6 13. Qd3 (13. Nd4 Bxa2+) 13... Kb8 14. Nd4 Bd5 15. f3 a6 16. Ba4 (16.
+Bxa6 Nxd4 17. cxd4 bxa6 18. Qxa6 Qc6 (18... Qc8)) 16... Bxd4 17. cxd4 f6 18.
+Rhe1 (18. b3 g5 19. Bd2 g4) (18. c4 Bf7 19. Ka1 d5 20. cxd5 Qxd5 21. Bb3 Qd7)
+18... Rxe1 19. Rxe1 Bxa2+ 20. Kxa2 Nb4+) (11. Nd4 Nxd4 12. cxd4 Qa4 13. a3 (13.
+Kb1 Qxa2+) (13. c4 Qxa2) 13... Qxd4 14. Be3 Qd5 15. Bxa7 Bf6) 11... Bf6 12. Nd4
+Bd5 13. f3 a6 14. Bxc6 (14. Bxa6 Nxd4 15. cxd4 Rhe8 16. Qd3 bxa6 17. Qxa6+ Kb8
+18. Rd3 Qc8) (14. Ba4 Kb8 15. Qd3 Nb4 16. Bxd7 (16. cxb4 Qxa4) 16... Nxd3+ 17.
+cxd3 Rxd7 18. c4 Bxd4 19. cxd5) 14... Bxc6) 7... Nc6 8. Qd2 Be6 9. O-O-O Qd7
+10. Kb1 Bf6 11. Nd4 (11. Bb5 a6 12. Ba4 b5 13. Bb3 Bxb3 14. cxb3 O-O) (11. h4
+O-O-O $1 (11... h6 {also equal and main move in the opening book too!}) ({
+feel free to follow Ju Wenjun!} 11... a6) 12. Bg5 Qe7 13. Qf4 h6 14. Bxf6 Qxf6
+15. Qxf6 gxf6 16. Nd4 Bd7 17. Bb5 Nxd4 18. Bxd7+ Kxd7 19. cxd4 Rde8 20. Rhe1 f5
+21. g3 f4 22. g4 (22. gxf4 Rxe1 23. Rxe1 Rg8) 22... f3 23. Kc1 Rhg8 24. Rxe8
+Rxe8 25. Rg1 (25. g5 h5 26. d5 Re2 27. Rd2 Re1+ 28. Rd1 Re4) 25... Re2) (11.
+Bg5 Bxg5 12. Nxg5 (12. Qxg5 f6) 12... O-O-O 13. Nxe6 fxe6 14. g3 e5 15. h4 Kb8
+16. Bg2 Rhf8) (11. Ng5 Bxg5 12. Bxg5 f6 13. Be3 O-O-O 14. Bb5 a6 15. Ba4 b5 16.
+Bb3 Kb7) 11... Nxd4 (11... Bxd4 12. Bxd4 f6) 12. cxd4 (12. Bxd4 Bxd4 13. cxd4
+c6 14. Bd3 O-O-O) 12... c6 13. h4 O-O-O 14. g3 Kb8 15. Bg2 Bf5 16. Bf4 Rhe8 0-1
+
