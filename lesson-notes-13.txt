@@ -1,0 +1,11 @@
+Enter test puzzles in lichess
+
+write down puzzle rating on all sites
+
+
+chesstempo 1065
+lichess 1925
+chess.com 1690
+
+
+https://lichess.org/training/61248
