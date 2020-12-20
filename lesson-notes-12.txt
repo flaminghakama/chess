@@ -24,3 +24,19 @@ https://www.chess.com/analysis/game/live/5835145441
 
 Lost to 2. Bc4 
 https://www.chess.com/analysis/game/live/5835192690
+
+
+
+custom
+
+deflection
+pin
+double attack
+fork
+discovered attack
+double check 
+mates in two
+
+
+Polgar book in tactics
+
