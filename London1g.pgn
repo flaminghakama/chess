@@ -1,0 +1,172 @@
+﻿[Event "20th European Teams"]
+[Site "Reykjavik ISL"]
+[Date "2015.11.22"]
+[Round "9.6"]
+[White "London, Carlsen"]
+[Black "?"]
+[Result "1-0"]
+[ECO "D00"]
+[WhiteElo "2850"]
+[BlackElo "2748"]
+[Annotator "Amazonka"]
+[PlyCount "75"]
+[EventDate "2015.11.13"]
+[EventRounds "9"]
+[EventCountry "ISL"]
+[Source "Mark Crowther"]
+[WhiteTeam "Norway"]
+[BlackTeam "Poland"]
+[WhiteTeamCountry "NOR"]
+[BlackTeamCountry "POL"]
+
+{[%evp 0,75,19,31,14,23,30,30,57,20,26,25,37,28,39,40,40,32,45,43,38,10,0,0,5,
+13,14,14,11,-4,15,14,20,17,7,11,15,5,12,0,14,-7,14,-10,2,-17,19,-31,-11,4,27,
+19,2,9,16,23,21,-4,132,108,116,102,126,93,165,119,172,188,193,204,204,225,402,
+405,357,380,429,432]} 1. d4 Nf6 (1... d5 2. Bf4 e6 (2... c5 3. e3 Nc6 4. c3 Qb6
+(4... Nf6 5. Nd2) 5. Qb3 c4 6. Qc2 Nf6 7. Nd2 g6 (7... Bg4 8. Be2 Bxe2 9. Nxe2
+e6 10. O-O Be7 11. Ng3 O-O 12. e4 Nxe4 13. Ngxe4 dxe4 14. Nxe4 Qb5 15. Rfe1 Qd5
+16. Re3 b5 17. Rae1 Rae8 18. Qe2 a5 19. a3 a4 20. Qf3 Rd8 21. Qh3 Rfe8 22. Rg3
+f6 23. Qh6 Bf8 24. Nxf6+ Kf7 25. Qh4 Be7 26. Rxg7+ Kxg7 27. Qh6+ Kf7 28. Nxd5 {
+1-0 Berkes,F (2645)-Rustemov,A (2520)/Baden Baden GER 2009}) (7... Nh5 8. Bg3
+$146 (8. Bg5 h6 9. Bh4 g5 10. Be2 gxh4 11. Bxh5 e5 12. f4 e4 13. b3 cxb3 14.
+Qxb3 Be6 15. Ne2 O-O-O 16. f5 Bxf5 17. Bxf7 Qa6 18. Nf4 Na5 19. Qd1 Be7 20. Bh5
+Kb8 21. Be2 Qc6 22. Rc1 Bg5 {Ghane,S (2442)-Zhou Jianchao (2551) Vishakapatnam
+IND 2008 0-1 (41)}) (8. Ne2 g6 $11) 8... Nxg3 9. hxg3 e5 (9... g6 10. e4 e6 11.
+b3 $11) 10. e4 exd4 (10... Qb5 11. a4 Qa5 12. dxe5 $16) 11. exd5 $14 dxc3 (
+11... d3 12. Qa4 Qc5 13. dxc6 $16) 12. bxc3 $16 Ne7 13. Bxc4 Qc5 $4 {Diagram #}
+(13... Bf5 $142 14. Bd3 Bd7 $16) 14. Ne4 $18 Qa3 15. Nf3 (15. Bb5+ Bd7 16.
+Bxd7+ Kxd7 $18) 15... Nf5 16. O-O (16. Bb5+ $5 Kd8 $18) 16... Be7 17. Rad1 (17.
+Bb5+ $142 Kf8 18. Rab1 $18) 17... Nd6 $16 18. Nxd6+ Qxd6 19. Nd2 (19. Bb5+ Kf8
+20. Qb3 $16) 19... Bd7 $2 (19... O-O $142 $16) 20. Ne4 $18 Qg6 21. d6 (21. Qb1
+O-O 22. d6 Bd8 23. Qxb7 Rc8 $18) 21... Bd8 22. Bd3 Qh5 23. Be2 (23. g4 Bxg4 24.
+Rb1 O-O 25. Rxb7 Bb6 $18) 23... Qf5 24. Bf3 (24. g4 Qe5 25. Bf3 O-O $18) 24...
+O-O 25. Rd5 Qg6 26. Rfd1 Rc8 (26... Re8 27. Qb2 b6 28. Nc5 bxc5 29. Qb7 $16)
+27. Qd2 (27. Re5 h6 $16) 27... Bb6 (27... b6 $142 $5 28. Re5 f5 29. Qd5+ Qf7
+$14) 28. Re5 $16 Rce8 29. Re7 Bc6 30. Qf4 Rxe7 $2 (30... h6 $142 $16) 31. dxe7
+$18 Re8 32. Nd6 Rxe7 33. Bxc6 Qc2 (33... bxc6 34. Nf5 Qe6 35. Nxe7+ Qxe7 36.
+Qb8+ Qf8 37. Qxf8+ Kxf8 $18) 34. Ba4 Bxf2+ (34... Qe2 35. Bb3 h6 36. Qf5 Bxf2+
+37. Qxf2 Qxf2+ 38. Kxf2 $18) 35. Kh2 Bxg3+ (35... Qe2 36. Nf5 Qh5+ 37. Qh4
+Bxg3+ 38. Kxg3 Qxh4+ 39. Kxh4 Re4+ 40. Kg3 h5 $18) 36. Qxg3 Qxa4 37. Nf5 {
+1-0 Sedlak,N (2581)-Vasilev,M (2487)/Blagoevgrad 2013} (37. Nf5 g6 38. Nxe7+
+Kf8 39. Rd8+ Qe8 40. Rxe8+ Kxe8 41. Qd6 f5 42. Nd5 Kf7 43. Qf6+ Kg8 44. Ne7#))
+8. b3 Bf5 9. Qd1 cxb3 10. axb3 Bg7 11. Ngf3 O-O 12. Be2 Rfd8 13. O-O Ne4 14.
+Nxe4 dxe4 15. Nd2 e5 16. Bg5 f6 17. Bh4 g5 18. Bg3 Bg6 19. h4 gxh4 20. Bxh4
+exd4 21. cxd4 Ne7 22. Nc4 {'Sedlak,N (2582)-Movsesian,S (2695) Neum BIH 2008
+1-0 (50)'} Qe6 23. Ra5 Rd5 24. Qa1 a6 25. Bg3 b5 26. Nd6 Rxd6 27. Bxd6 Qxd6 28.
+Bxb5 Bf7 29. Bxa6 Qb6 30. Ra4 Qxb3 31. Rb1 Qe6 32. Bb7 Rf8 33. Ra6 Qg4 34. Ra8
+f5 35. Rxf8+ Bxf8 36. Qa8 Kg7 37. Qb8 Ng6 38. Bc8 Be7 39. Qb5 Kf6 40. Ra1 Kg5
+41. Qd7 Bc4 42. Qc7 Bd5 43. Rb1 h6 44. Qd7 Ba2 45. Rf1 Bf6 46. Qd6 Bb3 47. f3
+exf3 48. Rxf3 Be7 49. Qb8 Kh4 50. Rh3+ {1-0 Sedlak,N (2582)-Movsesian,S (2695)/
+Neum BIH 2008}) (2... c6 3. e3 Bf5 4. c4 e6 (4... Bxb1 5. Qxb1 e5 6. Bxe5 Qa5+
+7. Kd1 Nd7 8. Bg3 c5 9. Nf3 Ngf6 10. a3 cxd4 11. exd4 Be7 12. c5 Ne4 13. Bd3 f5
+14. b4 Qd8 15. Qb3 f4 16. Bxf4 Nxf2+ 17. Kc2 Nxh1 18. Qxd5 Nf6 19. Bb5+ Kf8 20.
+Qxd8+ Rxd8 21. Rxh1 Nd5 22. Bg3 h5 23. Re1 h4 24. Be5 Rh6 25. Bc4 Rg6 26. Re2
+Rxg2 27. Rxg2 Ne3+ 28. Kd3 Nxg2 29. Ke4 Bf6 30. Bd6+ Be7 31. Bc7 Rc8 32. Be5
+Bf6 33. Be6 Rc6 34. Bh3 Bxe5 35. Nxe5 Ra6 36. Bxg2 Rxa3 37. Kf5 Ra2 38. Bxb7
+Rxh2 39. c6 Rc2 40. Ke4 {1-0 Berkes,F (2645)-Lupulescu,C (2594)/Dresden GER
+2008}) 5. Qb3 Qb6 6. c5 Qxb3 7. axb3 Bxb1 8. Rxb1 Nd7 9. b4 a6 10. Nf3 Ngf6 11.
+h3 Be7 12. Nd2 O-O 13. Nb3 Bd8 14. Na5 Bxa5 15. bxa5 Rfe8 16. f3 e5 17. dxe5
+Nxe5 18. Kf2 Re6 19. Rc1 Rae8 20. Rc3 Nfd7 21. h4 f5 22. h5 Nf6 23. Rh4 R8e7
+24. Bh2 Neg4+ 25. fxg4 Ne4+ 26. Kg1 Nxc3 27. bxc3 Rxe3 28. gxf5 R7e4 29. Rxe4
+Rxe4 30. Kf2 h6 31. Bc7 Re7 32. Bd6 Re4 33. f6 gxf6 34. Bd3 Ra4 35. Bc7 Ra2+
+36. Kf3 Ra3 37. Ke3 Rxc3 38. Kd4 Rc1 39. Bf4 Rh1 40. Bf5 Kg7 41. Bc8 Rb1 42.
+Bc7 Re1 43. Bd6 Rb1 44. Kc3 Rb5 45. Bc7 Rxc5+ 46. Kd3 Rb5 47. Bb6 c5 48. Bxb7
+d4 49. Bxa6 Rb3+ 50. Kc2 Rg3 51. Bb7 Ra3 52. a6 d3+ 53. Kb2 d2 54. Kc2 Ra2+ 55.
+Kd1 {1-0 Kamsky,G (2667)-Gurevich,M (2542)/Cappelle la Grande FRA 2016}) 3. e3
+c5 4. Nf3 {[%csl Re5][%cal Gf3e5]} (4. c3) 4... Nc6 5. c3 cxd4 6. exd4 Bd6 7.
+Bg3 Nge7 8. Bd3 f6 9. O-O Bxg3 10. hxg3 O-O 11. Re1 Qd6 12. Nbd2 Bd7 13. c4 a5
+14. Rc1 a4 15. a3 Ra7 16. Qc2 g6 17. Nb1 dxc4 18. Bxc4 Nf5 19. Rcd1 Nce7 20.
+Nc3 Nd5 21. Ne4 Qc6 22. Qe2 Nd6 23. Ba2 Nxe4 24. Qxe4 b6 25. Rc1 Qd6 26. Nd2
+Re8 27. Qf3 Kg7 28. Ne4 Qe7 29. g4 Ra5 30. Nd2 Qf8 31. Nc4 Rb5 32. Qg3 Rd8 33.
+Rc2 Rc8 34. Rce2 Rc6 35. g5 fxg5 36. Ne5 Rd6 37. Bc4 Ra5 38. Qxg5 Bc8 39. Re4
+Nf6 40. Rh4 Kg8 41. Rf4 Kg7 42. Re3 Qd8 43. Ref3 {1-0 Mitkov,N (2538)
+-Nogueiras Santiago,J (2549)/Aguascalientes MEX 2008}) 2. Bf4 d5 (2... b6 3. c4
+Bb7 4. Nc3 e6 5. a3 d5 6. e3 Bd6 7. Bg5 h6 8. Bxf6 Qxf6 9. cxd5 exd5 10. Qa4+
+Kf8 (10... Nd7 {is weak because of} 11. Bb5 Qe6 12. Bc6 O-O-O (12... Bxc6 13.
+Qxc6 Rc8 14. Qxd5 {pawn up}) 13. Nxd5) (10... c6 11. Nxd5) (10... Bc6 11. Qb3
+Qe6 12. g3 Bb7 (12... O-O 13. Bg2) 13. Bh3 Qg6 14. Nf3 O-O 15. O-O) 11. g3 c6
+12. Bg2 g6 13. Nge2 Kg7 14. O-O Qd8 15. e4 dxe4 16. Nxe4 Re8 17. Rad1 Na6 18.
+N2c3 Nc7 19. Nc5 bxc5 20. dxc5 Nd5 21. cxd6 Qxd6 22. Ne4 Qe5 23. Rc1 Nb6 24.
+Qb4 Rad8 25. Nc5 Rd4 26. Qc3 Bc8 27. Rce1 {1-0 Nakamura,H (2799)-Vachier
+Lagrave,M (2754)/Khanty-Mansiysk RUS 2015}) (2... g6 {and i can recommend
+deffinitely sharper move Nc3 with 0-0-0 idea and kingside attacking and be
+ready to sacrifice a pawn at least :)} 3. Nc3 ({if you wish you can continue
+in a standart way with Nf3 and 0-0} 3. Nf3 Bg7 4. c3 d6 5. h3 O-O 6. e3 b6 7.
+Be2 Bb7 8. a4 a6 9. O-O c5 10. Nbd2 Nbd7 11. Bh2 Ne4 12. Nxe4 Bxe4 13. Qb3 Nf6
+14. Rfd1 h6 15. Qa3 Qc7 16. Nd2 Bc6 17. a5 Qb7 18. axb6 cxd4 19. exd4 Bxg2 20.
+Bxa6 Qc6 21. b7) 3... Bg7 (3... d5 4. Qd2 a6 5. Nf3 Bg7 6. Bh6 O-O 7. h4 Bxh6
+8. Qxh6 Ng4 9. Qd2 h5 10. e4 dxe4 11. Nxe4 Bf5 12. Ng3 e6 13. O-O-O Qd5 14. Kb1
+c5 15. Nxf5 Qxf5 16. Bd3 Qf6 17. Ne5 Qxf2 (17... Nxe5 18. dxe5 Qxe5 19. f4 Qf6
+20. g4 hxg4 21. h5) {don't exchange the queens please because it's a one side
+playing against the black king and that's why you need the queen to create a
+checkmate attacking} 18. Qg5 Nxe5 (18... Qf6 19. Nxg4 Qxg5 20. hxg5 hxg4 21.
+dxc5 Nd7 22. Rh4 Kg7 23. Rdh1 Rh8 24. Rxh8 Rxh8 25. Rxh8 Kxh8 26. b4 $18) 19.
+dxe5 c4 20. Rhf1 Qc5 21. Bxg6 fxg6 22. Rxf8+ Qxf8 23. Rd8 {1-0 Ivanisevic,I 
+(2643)-Volokitin,A (2627)/Calimanesti-Caciulata ROU 2014}) 4. e4 d6 5. Qd2 c6 (
+5... Nc6 6. O-O-O O-O 7. h4 a6 (7... e5 8. dxe5 dxe5 (8... Nxe5 9. Bxe5) 9.
+Qxd8 Rxd8 10. Rxd8+ Nxd8 11. Bxe5 Nxe4 12. Bxg7 Nxf2 13. Bf6 Nxh1 (13... Nc6
+14. Rh3 Nxh3 15. Nxh3 Bxh3 16. gxh3 Re8 17. Bg2 Re6 18. Bg5 $16) 14. Bxd8) 8.
+Be2 b5 9. Bf3 Bb7 (9... b4 10. Nce2 Bd7 (10... a5 11. e5) 11. e5 Ng4 12. Bxg4
+Bxg4 13. Bh6 dxe5 14. Bxg7 Kxg7 15. d5 Nd4 16. f3 Qxd5 17. Nxd4 Qxa2 18. Qxb4
+$18) {don't hurry up with h5 and first eliminate the bishop on g7} 10. Bh6 $14
+e5 11. d5 Nd4 12. Nce2 c5 13. dxc6 Bxc6 14. Nxd4 Bxh6 15. Qxh6 exd4 16. Nh3
+Bxe4 17. Bxe4 Nxe4 18. Ng5 Nf6 19. h5 gxh5 20. Nxh7 (20. Rxh5) 20... Nxh7 21.
+Rxh5) 6. Bd3 Nbd7 7. Nf3 O-O 8. h4 e5 9. dxe5 dxe5 10. Bg5 Qb6 11. O-O-O Ng4
+12. h5 Qxf2 (12... Nxf2 13. Be3 Nxd3+ 14. Qxd3 Qc7 15. hxg6 hxg6 16. Bh6 Nf6
+17. Bxg7 Kxg7 18. Qd2 Ng4 19. Ng5 $16) 13. Be2 Ndf6 14. hxg6 hxg6 15. Rdf1 Qb6
+16. Nxe5 Nxe4 17. Nxe4 Bxe5 18. c3 Bf5 19. Rxf5 gxf5 20. Bf6 {1-0 Shimanov,A 
+(2631)-Zherebukh,Y (2595)/Philadelphia USA 2016}) (2... e6 3. e3 c5 4. c3 b6 5.
+Nf3 Bb7 6. h3 {h3 is very important to safe the bishop against Nh5} Be7 7. Nbd2
+cxd4 8. cxd4 O-O 9. a3 d6 10. Be2 Nbd7 11. O-O Rc8 12. Bh2 Ne4 13. Nxe4 Bxe4
+14. Ba6 Rc7 15. Nd2 Bc6 16. Qe2 Qa8 17. e4 Bb7 18. Bd3 e5 19. Nc4 b5 20. Na5
+exd4 21. Bxb5 Ne5 22. Nxb7 Qxb7 23. Rac1 Rxc1 24. Rxc1 Rc8 25. Rd1 Qb6 26. a4
+h6 27. Bg3 Qc5 28. Kh2 Bf6 29. f4 Ng6 30. Bd3 h5 31. b4 Qxb4 32. Qxh5 Qxa4 33.
+e5 dxe5 34. fxe5 Rc5 35. Re1 Nf8 36. Qg4 Be7 37. Rb1 Qd7 38. Bf5 Qd5 39. Rb8 g6
+40. Re8 Rc7 41. Bxg6 fxg6 42. Qxg6+ Kh8 43. e6 Rb7 44. Qf7 Rb2 45. Rxf8+ Bxf8
+46. Qxf8+ Kh7 47. Qf7+ Kh8 48. Qe8+ {1-0 Kamsky,G (2741)-Onischuk,A (2660)/
+Saint Louis USA 2012}) 3. e3 c5 (3... e6 4. c3 c5 5. Nd2 Nc6 6. Bd3 (6. Ngf3
+Bd6 7. Bg3 O-O 8. Bd3 Qe7 (8... b6 9. Ne5 Bb7 10. f4 Ne7 11. Qb1 g6 12. Bf2
+cxd4 13. exd4 Nh5 14. g3 f6 15. Nef3 Qc8 16. O-O Ba6 17. Re1 Ng7 18. Kg2 Rb8
+19. a3 Re8 20. Qc2 Bxd3 21. Qxd3 Qd7 22. Re2 a5 23. Rae1 a4 24. h3 b5 25. Bg1
+Nc6 26. Bh2 Nh5 27. Nf1 Na5 28. Ne3 Nc4 29. Ng4 Kg7 30. Qb1 Re7 31. Nf2 Kg8 32.
+Nd3 Rbe8 33. g4 Ng7 34. Qd1 Qc7 35. Kh1 Qc6 36. Rf2 Rf7 37. Ree2 Rfe7 38. Qg1 {
+1-0 Grischuk,A (2810)-Wang,H (2710)/Beijing 2014}) 9. Ne5 Nd7 10. Nxd7 Bxd7 11.
+Bxd6 Qxd6 12. dxc5 Qxc5 13. Bxh7+ Kxh7 14. Qh5+ Kg8 15. Ne4 Qc4 16. Ng5 Rfd8
+17. Qxf7+ Kh8 18. Qh5+ Kg8 19. Rd1 e5 20. Qf7+ Kh8 21. e4 Ne7 22. Qxe7 Bb5 23.
+Rd2 Qxa2 24. Qf7 Qa1+ 25. Rd1 Qxb2 26. Qh5+ Kg8 27. Qh7+ Kf8 28. Qh8+ Ke7 29.
+Qxg7+ Kd6 30. Rxd5+ Kc6 31. Qf6+ {1-0 Kamsky,G (2709)-Shankland,S (2611)/
+Sturbridge USA 2014}) 6... Bd6 7. Bxd6 Qxd6 8. f4 cxd4 9. cxd4 O-O 10. a3 Ne7
+11. Ngf3 Qb6 12. Qb3 Qxb3 13. Nxb3 b6 14. Rc1 Bd7 15. Ke2 Nc8 16. Ne5 Ba4 17.
+Nd2 Nd6 18. b3 Bb5 19. Bxb5 Nxb5 20. a4 Nd6 21. Rc6 Rfd8 22. Ra1 Nfe8 23. a5 f6
+24. axb6 axb6 25. Rxa8 Rxa8 26. Nd7 b5 27. Nc5 Kf7 28. e4 dxe4 29. Ndxe4 Nxe4
+30. Nxe4 Ra2+ 31. Kf3 Rb2 32. Nc5 g5 33. Rb6 gxf4 34. Rb7+ Kg6 35. Nxe6 Kf5 36.
+Nc5 Rc2 37. Ne4 Nc7 38. Rb6 Nd5 39. Rd6 {1-0 Kramnik,V (2801)-Grandelius,N 
+(2649)/Stavanger NOR 2016}) (3... c6 4. c4 e6 5. Nc3 Bd6 (5... Bb4 6. Bd3 Nbd7
+7. Nge2 h6 8. O-O O-O 9. Qb3 Bxc3 10. Nxc3 Qb6 11. c5 Qxb3 12. axb3 Re8 13. Bd6
+b5 14. cxb6 Nxb6 15. Ra5 Bd7 16. Rfa1 Nc8 17. Be5 Ng4 18. Bc7 e5 19. Ba6 e4 20.
+Bb7 Ne7 21. Bxa8 Rxa8 22. Rxa7 Rxa7 23. Rxa7 Be6 24. Na4 Kh7 25. Nc5 Bf5 26.
+Bg3 Ng8 27. Rxf7 N4f6 28. Rc7 Nh5 29. Be5 Nhf6 30. Rxc6 Kg6 31. b4 {1-0
+Kasparov,G (2812)-Drugda,B/Bratislava 2011}) 6. Bg3 O-O 7. Nf3 b6 8. Bd3 Ba6 9.
+cxd5 exd5 10. Rc1 Re8 11. Bxa6 Nxa6 12. O-O Bxg3 13. hxg3 Qd6 14. Qa4 Nb8 15.
+Ne5 a5 16. Rfd1 b5 17. Qc2 Ra7 18. Qf5 Qe6 19. Qxe6 Rxe6 20. Ne2 Nfd7 21. Nf4
+Rd6 22. Nfd3 f6 23. Nxd7 Nxd7 24. Rc2 Ra6 25. Rdc1 Kf7 26. g4 h6 27. Kh2 Re6
+28. Kg3 Rb6 29. Kf3 Ra6 30. Ke2 Rb6 31. f4 Ra6 32. f5 Rd6 33. Kf3 Rb6 34. Nf4
+Nb8 35. Ne6 Rb7 36. b3 Rb6 37. Rc5 Rxe6 38. fxe6+ Kxe6 39. e4 a4 40. exd5+ cxd5
+41. Rc7 axb3 42. axb3 Kd6 43. Rxg7 Nc6 44. Ke3 Rb8 45. Rf1 Re8+ 46. Kd3 Re6 47.
+Rf7 {1-0 Torre,E (2561)-Laylo,D (2509)/Subic Bay PHI 2009}) 4. c3 Nc6 5. Nd2
+cxd4 (5... Bf5 6. Qb3 Qd7 7. Ngf3 c4 8. Qd1 e6 9. Be2 h6 10. O-O Be7 11. Ne5
+Nxe5 12. Bxe5 O-O 13. a4 a6 14. a5 Rfd8 15. b3 cxb3 16. Qxb3 Ne4 17. Nxe4 Bxe4
+18. Rfd1 Rac8 19. Ra2 {with idea Rb2}) 6. exd4 Bf5 7. Qb3 Qc8 8. Ngf3 e6 (8...
+h6 9. Ne5 g5 10. Bg3 Bg7 11. Be2 O-O 12. O-O e6 13. Rae1 Ne4 14. Nxe4 Bxe4 15.
+Nd3 Bh7 16. Qd1 Ne7 17. Be5 f6 18. Bd6 Re8 19. Bh5 Bg6 20. Bxe7 Bxh5 21. Qxh5
+Rxe7 22. f4 Qe8 23. Qf3 f5 24. fxg5 hxg5 25. g4 f4 26. h4 Qg6 27. h5 Qf7 28.
+Re2 Rae8 29. Rfe1 Kh7 30. Kf1 Kh6 31. a4 Bf6 32. a5 Qh7 33. a6 b6 34. Nb4 Qf7
+35. Qd3 Kg7 36. Kf2 Rc8 37. Kf3 Rc4 38. Qg6+ Qxg6 39. hxg6 Bxd4 40. Rxe6 Rxe6
+41. Rxe6 Bc5 42. Nxd5 Ra4 43. b4 Bf8 44. Rf6 {1-0 Carlsen,M (2850)-Wagner,D 
+(2575)/Berlin 2015/CBM 168 Extra}) 9. Nh4 Be4 10. Nxe4 Nxe4 11. Nf3 Bd6 12.
+Bxd6 Nxd6 13. Bd3 Qc7 14. Qc2 O-O-O 15. O-O h6 16. a4 Kb8 17. Rfe1 Rc8 18. Qd1
+Rhe8 19. Bf1 Re7 20. Rc1 Rd8 21. Re2 Ne4 22. b4 Ng5 23. Ne1 e5 24. b5 Na5 25.
+Rxe5 Rxe5 26. dxe5 Qxe5 27. c4 Ne6 28. Nf3 Qf4 29. cxd5 Rxd5 30. Qxd5 Qxc1 31.
+g3 Qc5 32. Qd7 Qf8 33. Ne5 Nc5 34. Qd5 Kc7 35. Nxf7 Nxa4 36. Qe5+ Kb6 37. Nd6
+Nc5 38. Ne8 1-0
+
