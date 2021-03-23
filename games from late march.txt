@@ -1,0 +1,62 @@
+Black
+-----
+
+My 4 Knights for Black does not have 4. d3
+https://www.chess.com/analysis/game/live/10168278425
+
+My 4 Knights for Black does not have 5. Bxc6
+https://www.chess.com/analysis/game/live/10018980039
+
+Another 1. e4 opening but I don't recogniaze 3. d3
+https://www.chess.com/analysis/game/live/10090272601
+
+
+
+Petrov was ok out of opening, how to analyze game from move 15
+https://www.chess.com/analysis/game/live/9608670501
+
+
+
+I seem to get this line in petrov a lot, but miss 7. ... Qg5
+https://www.chess.com/analysis/game/live/10137052257
+
+Petrov, lost to 4. Nxf7 keep missing 6. ... Bd6
+https://www.chess.com/analysis/game/live/9738031225
+https://www.chess.com/analysis/game/live/8963929737
+
+Petrov, lost to 3. d4
+https://www.chess.com/analysis/game/live/9674130299
+
+
+Black, weird opening 1. b4
+I tried to treat this like QGD, but it got off the rails early 
+https://www.chess.com/analysis/game/live/10191105939
+
+
+White
+-----
+
+How to analyze starting at move 11?
+https://www.chess.com/analysis/game/live/10095064603
+
+How to analyze from move 10?
+https://www.chess.com/analysis/game/live/9761299063
+
+
+Not sure when to push c4 instead of moving the knight first.
+Also when to take knight for bishop on f6.
+How to analyze starting from move 16?
+https://www.chess.com/analysis/game/live/10020655099
+
+Another time when I should have pushed c4
+https://www.chess.com/analysis/game/live/9879040885
+
+
+
+
+
+
+What is this?
+https://www.chess.com/analysis/game/live/10120933501
+
+
