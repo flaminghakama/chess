@@ -1,0 +1,22 @@
+Tactics
+
+chesstempo 1244  1212
+lichess 2003  
+chess.com 1694
+
+
+
+pinned my queen
+https://www.chess.com/analysis/game/live/6209961082
+
+not quite sure why 24. Rxg6 is so bad
+https://www.chess.com/analysis/game/live/6209120691
+
+missed mate in 1
+https://www.chess.com/analysis/game/live/6183419070
+
+walked into a fork
+https://www.chess.com/analysis/game/live/6183252430
+
+bad calculation
+https://www.chess.com/analysis/game/live/6166090715

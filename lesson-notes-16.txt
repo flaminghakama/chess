@@ -1,0 +1,26 @@
+Tactics
+
+chesstempo 1244  1212
+lichess 2003  
+chess.com 1694
+
+
+White, lost to 1. d4 e5
+https://www.chess.com/analysis/game/live/6010771395
+
+White, lost to 3. ... Bf5
+https://lichess.org/5hke2aUHkDE3
+
+White, lost to 2. ... f6 because of Botez gambit
+https://lichess.org/01mzmZeM
+
+
+Black, Petrov lost to 3. d4
+https://lichess.org/sNR25Htc
+
+Black, Petrov lost against 1. Bc4
+https://lichess.org/xIYF8jImJler
+
+Black, lost against 1. d4 d5, 2. h3
+https://lichess.org/YCIQpK4k
+
